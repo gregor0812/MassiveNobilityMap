@@ -1,0 +1,373 @@
+id,name,manpower,tax,house,house_id
+1,Compatrieland,10000,500,Kade-Schwarze,2
+2,Oostervelde,10000,500,Kade-Schwarze,2
+3,Kroonhof,10000,500,Kade-Schwarze,2
+4,Falkburg,10000,500,Kade-Schwarze,2
+5,Befielenburg,10000,500,Kade-Schwarze,2
+6,Hoogsbree,10000,500,Kade-Schwarze,2
+7,Neersakse,10000,500,Kade-Schwarze,2
+8,Sagchtenburg,10000,500,Kade-Schwarze,2
+9,Koolland,10000,500,Kade-Schwarze,2
+10,Koolmeer,10000,500,Kade-Schwarze,2
+11,Lartenmeer,10000,500,Kade-Schwarze,2
+12,Nachtenwaal,10000,500,Kade-Schwarze,2
+13,Waltenburg,10000,500,Kade-Schwarze,2
+14,Weerenburg,10000,500,Kade-Schwarze,2
+15,Medwen & Morris,10000,500,Kade,1
+16,Pach Lochain,10000,500,Howlester,36
+17,Pach Lallach,10000,500,Howlester,36
+18,Pach Kildairen,10000,500,Howlester,36
+20,Erme,10000,500,Unowned,0
+21,El Rocío,10000,500,Anahera,13
+22,Leerenberg,10000,500,Typhonus,10
+23,Carrois-do-Lion,10000,500,du Lioc,30
+24,Holzenwald,10000,500,Unowned,0
+25,Brestobryn,10000,500,Unowned,0
+26,Caleigh,10000,500,Leberecht,7
+27,Llanswyrth,10000,500,Howlester,36
+28,Klötzer-Roschewald,10000,500,d'Vaud,32
+29,Sange-Ruive,10000,500,Ivrae,3
+30,Vysa-Pruzhany,10000,500,Kostalansky,38
+31,Kallerwald,10000,500,Unowned,0
+32,Ciudad del puente,10000,500,Anahera,13
+33,Adranebro,10000,500,di Alan,20
+34,Ostlaukirchen,10000,500,Winslough,49
+35,Buckslham,10000,500,Leberecht,7
+36,Ciudad del Marchena,10000,500,Anahera,13
+37,Insenborn Haute-Sûre,10000,500,Ravenstad,43
+38,Gramonde,10000,500,Unowned,0
+39,Michellons,10000,500,Ravenstad,43
+40,Alexanderburg,10000,500,Tyrannian,47
+41,Yeltiki,10000,500,Unowned,0
+42,Arrianna,10000,500,Unowned,0
+43,Carvon upon ful,10000,500,van Dirkse,11
+44,Amillia-Lloja,10000,500,Joncker,4
+45,Saronn,10000,500,Lampero,6
+46,Oxen,10000,500,Kehlen,37
+47,Moulins-Sur-font,10000,500,Unowned,0
+48,Karle,10000,500,Unowned,0
+49,Kaldekoy,10000,500,Unowned,0
+50,Niederzielenwald,10000,500,Unowned,0
+51,Pach Cudaire,10000,500,Howlester,36
+52,Rötbergerland,10000,500,Unowned,0
+53,Casa de Frontera,10000,500,Miramonte,40
+54,Soleuvre Sur-Essete,10000,500,du Lioc,30
+55,Hiacheville,10000,500,Rosendahl,45
+56,Glenborach,10000,500,Unowned,0
+57,Swixoy,10000,500,Unowned,0
+58,Røyksopphære,10000,500,Unowned,0
+59,Nonswick,10000,500,Leberecht,7
+60,Vaelfarme,10000,500,Claudio,26
+61,Mergoviste,10000,500,Unowned,0
+62,Montreill,10000,500,Valeur,
+63,Romais-Carnon,10000,500,du Pont,31
+64,Savignac,10000,500,Valeur,
+65,Libyavaskoye,10000,500,Unowned,0
+66,Esracyusa,10000,500,di Alan,20
+67,Ile-de-Morvois,10000,500,d'Aruele,15
+68,Morbengrino,10000,500,dei Orazio,19
+69,Ezai-Sur-Font,10000,500,Unowned,0
+70,Sussanem,10000,500,du Pont,31
+71,Eksdale Greens,10000,500,Daubney,16
+72,Porthwrys,10000,500,Unowned,0
+73,Sasso-Giovia,10000,500,Lampero,6
+74,Cardroheda,10000,500,Howlester,36
+75,Forli-e-vallo di Caro,10000,500,Lampero,6
+76,Aldeimo de Albeira,10000,500,Unowned,0
+77,Keswickstrylake,10000,500,Rolvdahl,8
+78,Orazei,10000,500,dei Orazio,19
+79,Keislangerwald,10000,500,Unowned,0
+80,Bromeberg,10000,500,Typhonus,10
+81,Nordport,10000,500,van Dirkse,11
+82,Naserna,10000,500,Wodenstaff,50
+83,Schootseiland,10000,500,Unowned,0
+84,Handorïenstadt,10000,500,Everhardt,33
+85,Eksdale Valley,10000,500,Daubney,16
+86,Wirtauberg,10000,500,Typhonus,10
+87,Hinterboiss,10000,500,du Lioc,30
+88,Leoncourt,10000,500,Ivrae,3
+89,Saint-Lumiere,10000,500,de Gosselin,17
+90,Arvieule,10000,500,du Pont,31
+91,Föhrborg,10000,500,Sorenvik,46
+92,Mondoirfais,10000,500,du Pont,31
+93,Schoonwellendam,10000,500,Unowned,0
+94,Mont Bertu,10000,500,de Gosselin,17
+95,Waldoisferge,10000,500,du Pont,31
+96,Lorverin,10000,500,Rolvdahl,8
+97,Saint-Etoile,10000,500,de Gosselin,17
+98,Fertindale,10000,500,Daubney,16
+99,Gropanello,10000,500,Alaire,23
+100,Saarle,10000,500,Unowned,0
+101,Rivellois,10000,500,Lécuyer,39
+102,Guimaeres,10000,500,di Alan,20
+103,Ville Truiquis,10000,500,Howlester,36
+104,Quartier Garnis,10000,500,du Pont,31
+105,Luxoft,10000,500,Barlowe,14
+106,Perlive,10000,500,de Paquet,18
+107,Cap sutien,10000,500,Fong,21
+108,Dannellenberg,10000,500,Typhonus,10
+109,Hasterdreplän,10000,500,Viduggla,48
+110,Baste-Caerillion,10000,500,de Paquet,18
+111,Merschl,10000,500,Peirgarten,42
+112,Leckenborg,10000,500,Koljarvik,22
+113,Scarrais,10000,500,de Paquet,18
+114,Pach Mochain,10000,500,Howlester,36
+115,Glenmoryn,10000,500,Unowned,0
+116,Mørkvidskog,10000,500,Zastórzy,12
+374,Pallermino,10000,500,Joncker,4
+118,Pilisti,10000,500,Unowned,0
+119,Bootell-Burgh,10000,500,Unowned,0
+120,Allamariënstadt,10000,500,Everhardt,33
+121,Listowe,10000,500,van Dirkse,11
+122,Vrouwenmeerle,10000,500,Unowned,0
+123,Røylikskoglän,10000,500,Unowned,0
+124,Bröddersby,10000,500,Ivarr,5
+125,Gästrelänvatnan,10000,500,Santorski,10
+126,Shappenlake,10000,500,Rolvdahl,8
+127,Nørdheide-Bermarken,10000,500,Unowned,0
+128,Birmarken,10000,500,Unowned,0
+129,Pétange,10000,500,Rosendahl,45
+130,Fehrmannlän,10000,500,Zastórzy,12
+131,Gaichelle,10000,500,du Pont,31
+132,Wildsembeck,10000,500,Unowned,0
+133,Imeresileone,10000,500,di Alan,20
+134,Ceillest,10000,500,Unowned,0
+135,Rokcyberg,10000,500,Unowned,0
+136,Cambre,10000,500,Black,24
+137,Holvae,10000,500,Unowned,0
+138,Heerlewaarde,10000,500,Unowned,0
+139,Norreck,10000,500,Carwell,25
+140,Kaalburg,10000,500,Tyrannian,47
+141,Plaine-du-Nord,10000,500,du Pont,31
+142,Ansägerlän,10000,500,Ivarr,5
+143,Clifferden,10000,500,Howlester,36
+144,Sydalsborg,10000,500,Unowned,0
+145,Valerese,10000,500,dei Orazio,19
+146,Syltenborg,10000,500,Unowned,0
+147,Bruidwinladdwich,10000,500,Unowned,0
+148,Maggiore Termno,10000,500,Lampero,6
+149,Mertzé,10000,500,Ravenstad,43
+150,Casliv,10000,500,Unowned,0
+151,Cap fôret,10000,500,Unowned,0
+152,Ville Afrancais,10000,500,Unowned,0
+153,Santáo,10000,500,di Alan,20
+154,Siebenbergerwald,10000,500,d'Vaud,32
+155,Castelvetriniano,10000,500,di Alan,20
+156,Bedsten upon ful,10000,500,Unowned,0
+157,Ville Truiquis,10000,500,d'Ortonnaise,28
+158,Erschenweiler,10000,500,Ravenstad,43
+159,Keerlebos,10000,500,Tyrannian,47
+160,Archidonna,10000,500,Joncker,4
+161,Zeëland,10000,500,Barlowe,14
+162,Cartosáo,10000,500,Miramonte,40
+163,Ligneville-Sur-Font,10000,500,Unowned,0
+164,Burgerzuid,10000,500,Tyrannian,47
+165,Fedsaxton,10000,500,Drache,29
+166,Ingëntingerlän,10000,500,Viduggla,48
+167,Mortillajaux,10000,500,Unowned,0
+168,Wattenmeer,10000,500,Unowned,0
+169,Couldevonne,10000,500,de Paquet,18
+170,Bittre-Mosais,10000,500,de Paquet,18
+171,Scacci,10000,500,di Alan,20
+172,Sjareks-Snølän,10000,500,Zastórzy,12
+173,Lirgunn,10000,500,Unowned,0
+174,Mierenloop,10000,500,Unowned,0
+175,Lugo-Perezo,10000,500,Unowned,0
+176,Ultz,10000,500,Ravenstad,43
+177,Vaertpoort,10000,500,Harhold,35
+178,Veerle,10000,500,Unowned,0
+179,Norrehurst,10000,500,Drache,29
+180,Landelle,10000,500,Rosendahl,45
+181,Redde,10000,500,Kehlen,37
+182,Erbtaubleierwald,10000,500,d'Vaud,32
+183,Notting,10000,500,Barlowe,14
+184,Kirben-und-Faltach,10000,500,Unowned,0
+185,Montrie,10000,500,Harhold,35
+186,Castletun,10000,500,Unowned,0
+187,Luzencon,10000,500,du Pont,31
+188,Ivrae,10000,500,Ivrae,3
+189,Leomarenwald,10000,500,Everhardt,33
+190,Shorois,10000,500,de Paquet,18
+191,Vullecavaglia,10000,500,Lampero,6
+192,Rebaronne,10000,500,de Paquet,18
+193,Nordwald,10000,500,Unowned,0
+194,Schverdingberg,10000,500,Typhonus,10
+195,Grisvarna,10000,500,Howlester,36
+196,Baaløy,10000,500,Unowned,0
+197,Westerlaas,10000,500,Harhold,35
+198,Gaekraan,10000,500,Harhold,35
+199,Tebayburg,10000,500,Unowned,0
+200,Anglian Morass,10000,500,Kade,1
+201,Maggiore Capri,10000,500,Alaire,23
+202,Quartier Bertrange,10000,500,du Pont,31
+203,Savignelle,10000,500,Unowned,0
+204,Lengelän,10000,500,Zastórzy,12
+205,Banicca,10000,500,de Gosselin,17
+206,Junglfontaine,10000,500,Rosendahl,45
+207,Ile-de-Borrois,10000,500,d'Aruele,15
+208,Castlebay,10000,500,Unowned,0
+209,Caltasin,10000,500,di Alan,20
+210,The Highlands,10000,500,Unowned,0
+211,Lristæll,10000,500,Zastórzy,12
+212,Halle,10000,500,Kehlen,37
+213,Carreileigh,10000,500,van Dirkse,11
+214,Accru,10000,500,de Gosselin,17
+215,Laicer,10000,500,d'Aruele,15
+216,Skogbrennalän,10000,500,Unowned,0
+217,Cucáo,10000,500,di Alan,20
+218,Broix-de-Carne,10000,500,du Pont,31
+219,Sevastakos,10000,500,Unowned,0
+220,Nygárdsefjel,10000,500,Zastórzy,12
+221,Athelhorne,10000,500,Howlester,36
+222,Small Wiggerby,10000,500,Daubney,16
+223,Eksdale,10000,500,Daubney,16
+224,Nordmarken,10000,500,Unowned,0
+225,Blingbury,10000,500,Black,24
+226,Ville Curan,10000,500,Unowned,0
+227,Carrois-do-Gibben,10000,500,du Lioc,30
+228,Narlas,10000,500,Black,24
+229,Elkenburg,10000,500,Unowned,0
+230,Fidston,10000,500,Unowned,0
+231,Sange-vall,10000,500,Ivrae,3
+232,Vlissinghelm,10000,500,Harhold,35
+233,Dragenhurst,10000,500,Drache,29
+234,Saill,10000,500,Unowned,0
+235,pepellos,10000,500,Unowned,0
+236,Kroonsteel,10000,500,Harhold,35
+237,Anthon,10000,500,Rolvdahl,8
+238,Tristë,10000,500,Unowned,0
+239,Boorswick,10000,500,Unowned,0
+240,Ulfraeksim,10000,500,Unowned,0
+241,Upperhamm upon ful,10000,500,van Dirkse,11
+242,Butterwick,10000,500,Leberecht,7
+243,Vertinøy,10000,500,Unowned,0
+244,Meerburg-Kovarov,10000,500,Unowned,0
+245,Lochoidsdale,10000,500,Unowned,0
+246,Côte Lhermoire,10000,500,Unowned,0
+247,Sange-Lagne,10000,500,Ivrae,3
+248,Marsalosi,10000,500,di Alan,20
+249,Cartaghena,10000,500,Miramonte,40
+250,Champoluc-Osta,10000,500,Unowned,0
+251,Karelburg,10000,500,Harhold,35
+252,Limbeville,10000,500,Unowned,0
+253,Oxenlake,10000,500,Unowned,0
+254,Derevna-Moktoboy,10000,500,Kostalansky,38
+255,Fërtmarken,10000,500,Unowned,0
+256,Bendhamm,10000,500,Leberecht,7
+257,Czabri-Lødingen,10000,500,Unowned,0
+258,Ciudad del cazalla,10000,500,Anahera,13
+259,Flensenburg,10000,500,Unowned,0
+260,Heartbury,10000,500,Reinard,44
+261,Galloy,10000,500,Howlester,36
+262,Parenest,10000,500,Unowned,0
+263,Nörrenwich-Heim ober Eifenforst,10000,500,d'Vaud,32
+264,Billunderborg,10000,500,Ivarr,5
+265,Lampeport,10000,500,Lampero,6
+266,Allejustrellazman,10000,500,Unowned,0
+267,San Justinian,10000,500,Wodenstaff,50
+268,Kinwrey,10000,500,Howlester,36
+269,Vittorio,10000,500,Lampero,6
+270,Fahrbelling,10000,500,Unowned,0
+271,Frillebourgh,10000,500,du Pont,31
+272,Theomarenwald,10000,500,Unowned,0
+273,Filtleigh,10000,500,Reinard,44
+274,Sanempach,10000,500,Peirgarten,42
+275,Lonbridge,10000,500,Harhold,35
+276,Kentwynstead,10000,500,Harhold,35
+,Castro Carcel,10000,500,Unowned,0
+278,Gudverinlän,10000,500,Viduggla,48
+279,Vallo de Calmino,10000,500,di Alan,20
+280,Lowesoft,10000,500,Barlowe,14
+281,Wexsenfird,10000,500,Howlester,36
+282,Longlaiville,10000,500,Peirgarten,42
+283,La Cresse,10000,500,Unowned,0
+284,Trapermettino,10000,500,Joncker,4
+285,Vigeviano,10000,500,Lampero,6
+286,Knight Isle,10000,500,Unowned,0
+287,Ansenbourgh,10000,500,Peirgarten,42
+288,Lrieg,10000,500,Unowned,0
+289,Kryvosynn,10000,500,Unowned,0
+290,Pach Norrlach,10000,500,Unowned,0
+291,Côte Plessis,10000,500,Unowned,0
+292,Chussex,10000,500,Unowned,0
+293,Côte Corneuille,10000,500,Unowned,0
+294,Lutherstadt,10000,500,Ravenstad,43
+295,Ogre-Llrollenlän,10000,500,Haagenvig,34
+297,Saint-Mirais,10000,500,de Gosselin,17
+298,Vaylais,10000,500,Unowned,0
+299,Calemberg,10000,500,Typhonus,10
+300,Ost-Heilingegrabe,10000,500,Zastórzy,12
+301,Cap Buclair,10000,500,Unowned,0
+302,Marmontania,10000,500,dei Orazio,19
+303,Middenhurst,10000,500,Drache,29
+304,Churst,10000,500,Rolvdahl,8
+305,Coorside,10000,500,Daubney,16
+306,Sael,10000,500,Black,24
+307,Lorhauser,10000,500,du Pont,31
+308,Justiniusstadt,10000,500,Rosendahl,45
+309,Crastö,10000,500,Unowned,0
+310,Sterrenwald,10000,500,Rolvdahl,8
+311,Resenteois,10000,500,de Paquet,18
+312,Laonne,10000,500,Ivrae,3
+313,Jodi,10000,500,Unowned,0
+314,Camerito,10000,500,dei Orazio,19
+315,Pellegrino Martina,10000,500,dei Orazio,19
+316,Porton,10000,500,Rolvdahl,8
+317,Newbrigge-Folsterwald,10000,500,Unowned,0
+318,Parbudicze,10000,500,Unowned,0
+319,Morgwhen,10000,500,Barlowe,14
+320,Czwartenheer,10000,500,Kade-Schwarze,2
+321,Dömitzberg,10000,500,Typhonus,10
+322,Collen-Bas,10000,500,Alaire,23
+323,Kennriclake,10000,500,Unowned,0
+324,Vicossato,10000,500,Lampero,6
+325,Merinoy,10000,500,Unowned,0
+326,Bellinzonia,10000,500,dei Orazio,19
+327,Kinguinesse,10000,500,Unowned,0
+328,Benverin,10000,500,Unowned,0
+329,Storwich,10000,500,Leberecht,7
+330,Dunfarrigh,10000,500,Howlester,36
+331,Newstonloch,10000,500,Rolvdahl,8
+332,Canach-Vilhof,10000,500,du Pont,31
+333,Gardlingwald,10000,500,Typhonus,10
+334,Osterburgwald,10000,500,Unowned,0
+335,Reelen-Aansberg,10000,500,d'Vaud,32
+336,Tristoy,10000,500,Unowned,0
+337,Alcarala Réal,10000,500,Anahera,13
+338,Sacille,10000,500,Lampero,6
+339,Kriegkap,10000,500,Unowned,0
+340,Vixchancourt,10000,500,Ivrae,3
+341,Donano,10000,500,Anahera,13
+342,Bichancourt,10000,500,Ivrae,3
+343,Pikkebaes,10000,500,Unowned,0
+344,Ile-de-Cancois,10000,500,d'Aruele,15
+345,Randazzano,10000,500,Joncker,4
+346,Morcange,10000,500,du Pont,31
+347,Lausitte,10000,500,Kehlen,37
+348,Lastradois,10000,500,Unowned,0
+349,Helais,10000,500,d'Aruele,15
+350,Cressille,10000,500,du Pont,31
+351,Jegvetkkelän,10000,500,Howlester,36
+352,Carroburgen,10000,500,Tyrannian,47
+353,Ducanelle,10000,500,Lécuyer,39
+354,Pack Isle,10000,500,Unowned,0
+355,Termini,10000,500,dei Termini,27
+356,Saint-Etruve,10000,500,d'Aruele,15
+357,Maerland,10000,500,Harhold,35
+358,Ville Salars,10000,500,Unowned,0
+359,Skjermerlän,10000,500,Santorski,10
+360,Mussolomeli,10000,500,di Alan,20
+361,Stanbsury,10000,500,Leberecht,7
+362,Anglia,10000,500,Kade,1
+363,Boder-Retheimgrabe,10000,500,d'Vaud,32
+364,Beetzenwald,10000,500,Typhonus,10
+365,Styrkenskag,10000,500,Zastórzy,12
+366,Kollenberg-Hradicz,10000,500,Unowned,0
+367,Nordstrand,10000,500,Unowned,0
+368,Thessalonikos,10000,500,Unowned,0
+369,Extratorøy,10000,500,Unowned,0
+370,Locarnio,10000,500,Morgann,41
+371,Axl,10000,500,Kehlen,37
+372,Saint-Claivont,10000,500,d'Aruele,15
+373,Warre,10000,500,Kehlen,37
+19,Regalia,10000,500,Unowned,0

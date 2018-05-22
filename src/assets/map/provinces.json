@@ -1,0 +1,2977 @@
+[{
+    "id": 1,
+    "name": "Compatrieland",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Oostervelde",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Kroonhof",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Falkburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Befielenburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Hoogsbree",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Neersakse",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 8,
+    "name": "Sagchtenburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 9,
+    "name": "Koolland",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 10,
+    "name": "Koolmeer",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 11,
+    "name": "Lartenmeer",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 12,
+    "name": "Nachtenwaal",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 13,
+    "name": "Waltenburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 14,
+    "name": "Weerenburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 15,
+    "name": "Medwen & Morris",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade",
+    "house_id": 1
+  },
+  {
+    "id": 16,
+    "name": "Pach Lochain",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 17,
+    "name": "Pach Lallach",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 18,
+    "name": "Pach Kildairen",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 20,
+    "name": "Erme",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 21,
+    "name": "El Rocío",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Anahera",
+    "house_id": 13
+  },
+  {
+    "id": 22,
+    "name": "Leerenberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 23,
+    "name": "Carrois-do-Lion",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Lioc",
+    "house_id": 30
+  },
+  {
+    "id": 24,
+    "name": "Holzenwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 25,
+    "name": "Brestobryn",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 26,
+    "name": "Caleigh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 27,
+    "name": "Llanswyrth",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 28,
+    "name": "Klötzer-Roschewald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Vaud",
+    "house_id": 32
+  },
+  {
+    "id": 29,
+    "name": "Sange-Ruive",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 30,
+    "name": "Vysa-Pruzhany",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kostalansky",
+    "house_id": 38
+  },
+  {
+    "id": 31,
+    "name": "Kallerwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 32,
+    "name": "Ciudad del puente",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Anahera",
+    "house_id": 13
+  },
+  {
+    "id": 33,
+    "name": "Adranebro",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 34,
+    "name": "Ostlaukirchen",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Winslough",
+    "house_id": 49
+  },
+  {
+    "id": 35,
+    "name": "Buckslham",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 36,
+    "name": "Ciudad del Marchena",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Anahera",
+    "house_id": 13
+  },
+  {
+    "id": 37,
+    "name": "Insenborn Haute-Sûre",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ravenstad",
+    "house_id": 43
+  },
+  {
+    "id": 38,
+    "name": "Gramonde",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 39,
+    "name": "Michellons",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ravenstad",
+    "house_id": 43
+  },
+  {
+    "id": 40,
+    "name": "Alexanderburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Tyrannian",
+    "house_id": 47
+  },
+  {
+    "id": 41,
+    "name": "Yeltiki",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 42,
+    "name": "Arrianna",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 43,
+    "name": "Carvon upon ful",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "van Dirkse",
+    "house_id": 11
+  },
+  {
+    "id": 44,
+    "name": "Amillia-Lloja",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Joncker",
+    "house_id": 4
+  },
+  {
+    "id": 45,
+    "name": "Saronn",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 46,
+    "name": "Oxen",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kehlen",
+    "house_id": 37
+  },
+  {
+    "id": 47,
+    "name": "Moulins-Sur-font",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Vixe de Loiree-bas",
+    "house_id": 39
+  },
+  {
+    "id": 48,
+    "name": "Karle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 49,
+    "name": "Kaldekoy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 50,
+    "name": "Niederzielenwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 51,
+    "name": "Pach Cudaire",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 52,
+    "name": "Rötbergerland",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 53,
+    "name": "Casa de Frontera",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Miramonte",
+    "house_id": 40
+  },
+  {
+    "id": 54,
+    "name": "Soleuvre Sur-Essete",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Lioc",
+    "house_id": 30
+  },
+  {
+    "id": 55,
+    "name": "Hiacheville",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rosendahl",
+    "house_id": 45
+  },
+  {
+    "id": 56,
+    "name": "Glenborach",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 57,
+    "name": "Swixoy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 58,
+    "name": "Røyksopphære",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 59,
+    "name": "Nonswick",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 60,
+    "name": "Vaelfarme",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Claudio",
+    "house_id": 26
+  },
+  {
+    "id": 61,
+    "name": "Mergoviste",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 62,
+    "name": "Montreill",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Valeur",
+    "house_id": 9
+  },
+  {
+    "id": 63,
+    "name": "Romais-Carnon",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 64,
+    "name": "Savignac",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Valeur",
+    "house_id": 9
+  },
+  {
+    "id": 65,
+    "name": "Libyavaskoye",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 66,
+    "name": "Esracyusa",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 67,
+    "name": "Ile-de-Morvois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 68,
+    "name": "Morbengrino",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 69,
+    "name": "Ezai-Sur-Font",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Vixe de Loiree-bas",
+    "house_id": 39
+  },
+  {
+    "id": 70,
+    "name": "Sussanem",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 71,
+    "name": "Eksdale Greens",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Daubney",
+    "house_id": 16
+  },
+  {
+    "id": 72,
+    "name": "Porthwrys",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 73,
+    "name": "Sasso-Giovia",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 74,
+    "name": "Cardroheda",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 75,
+    "name": "Forli-e-vallo di Caro",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 76,
+    "name": "Aldeimo de Albeira",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 77,
+    "name": "Keswickstrylake",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 78,
+    "name": "Orazei",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 79,
+    "name": "Keislangerwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 80,
+    "name": "Bromeberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 81,
+    "name": "Nordport",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "van Dirkse",
+    "house_id": 11
+  },
+  {
+    "id": 82,
+    "name": "Naserna",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Wodenstaff",
+    "house_id": 50
+  },
+  {
+    "id": 83,
+    "name": "Schootseiland",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 84,
+    "name": "Handorïenstadt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Everhardt",
+    "house_id": 33
+  },
+  {
+    "id": 85,
+    "name": "Eksdale Valley",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Daubney",
+    "house_id": 16
+  },
+  {
+    "id": 86,
+    "name": "Wirtauberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 87,
+    "name": "Hinterboiss",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Lioc",
+    "house_id": 30
+  },
+  {
+    "id": 88,
+    "name": "Leoncourt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 89,
+    "name": "Saint-Lumiere",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Gosselin",
+    "house_id": 17
+  },
+  {
+    "id": 90,
+    "name": "Arvieule",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 91,
+    "name": "Föhrborg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Sorenvik",
+    "house_id": 46
+  },
+  {
+    "id": 92,
+    "name": "Mondoirfais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 93,
+    "name": "Schoonwellendam",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 94,
+    "name": "Mont Bertu",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Gosselin",
+    "house_id": 17
+  },
+  {
+    "id": 95,
+    "name": "Waldoisferge",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 96,
+    "name": "Lorverin",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 97,
+    "name": "Saint-Etoile",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Gosselin",
+    "house_id": 17
+  },
+  {
+    "id": 98,
+    "name": "Fertindale",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Daubney",
+    "house_id": 16
+  },
+  {
+    "id": 99,
+    "name": "Gropanello",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Alaire",
+    "house_id": 23
+  },
+  {
+    "id": 100,
+    "name": "Saarle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 101,
+    "name": "Rivellois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lécuyer",
+    "house_id": 39
+  },
+  {
+    "id": 102,
+    "name": "Guimaeres",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 103,
+    "name": "Ville Truiquis",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 104,
+    "name": "Quartier Garnis",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 105,
+    "name": "Luxoft",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Barlowe",
+    "house_id": 14
+  },
+  {
+    "id": 106,
+    "name": "Perlive",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 107,
+    "name": "Cap sutien",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Fong",
+    "house_id": 21
+  },
+  {
+    "id": 108,
+    "name": "Dannellenberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 109,
+    "name": "Hasterdreplän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Viduggla",
+    "house_id": 48
+  },
+  {
+    "id": 110,
+    "name": "Baste-Caerillion",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 111,
+    "name": "Merschl",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Peirgarten",
+    "house_id": 42
+  },
+  {
+    "id": 112,
+    "name": "Leckenborg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Koljarvik",
+    "house_id": 22
+  },
+  {
+    "id": 113,
+    "name": "Scarrais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 114,
+    "name": "Pach Mochain",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 115,
+    "name": "Glenmoryn",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 116,
+    "name": "Mørkvidskog",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 374,
+    "name": "Pallermino",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Joncker",
+    "house_id": 4
+  },
+  {
+    "id": 118,
+    "name": "Pilisti",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 119,
+    "name": "Bootell-Burgh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 120,
+    "name": "Allamariënstadt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Everhardt",
+    "house_id": 33
+  },
+  {
+    "id": 121,
+    "name": "Listowe",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "van Dirkse",
+    "house_id": 11
+  },
+  {
+    "id": 122,
+    "name": "Vrouwenmeerle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 123,
+    "name": "Røylikskoglän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 124,
+    "name": "Bröddersby",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivarr",
+    "house_id": 5
+  },
+  {
+    "id": 125,
+    "name": "Gästrelänvatnan",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Santorski",
+    "house_id": 10
+  },
+  {
+    "id": 126,
+    "name": "Shappenlake",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 127,
+    "name": "Nørdheide-Bermarken",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 128,
+    "name": "Birmarken",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 129,
+    "name": "Pétange",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rosendahl",
+    "house_id": 45
+  },
+  {
+    "id": 130,
+    "name": "Fehrmannlän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 131,
+    "name": "Gaichelle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 132,
+    "name": "Wildsembeck",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 133,
+    "name": "Imeresileone",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 134,
+    "name": "Ceillest",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "von Duerr",
+    "house_id": 51
+  },
+  {
+    "id": 135,
+    "name": "Rokcyberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 136,
+    "name": "Cambre",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Black",
+    "house_id": 24
+  },
+  {
+    "id": 137,
+    "name": "Holvae",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 138,
+    "name": "Heerlewaarde",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 139,
+    "name": "Norreck",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Carwell",
+    "house_id": 25
+  },
+  {
+    "id": 140,
+    "name": "Kaalburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Tyrannian",
+    "house_id": 47
+  },
+  {
+    "id": 141,
+    "name": "Plaine-du-Nord",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 142,
+    "name": "Ansägerlän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivarr",
+    "house_id": 5
+  },
+  {
+    "id": 143,
+    "name": "Clifferden",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 144,
+    "name": "Sydalsborg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 145,
+    "name": "Valerese",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 146,
+    "name": "Syltenborg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 147,
+    "name": "Bruidwinladdwich",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 148,
+    "name": "Maggiore Termno",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 149,
+    "name": "Mertzé",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ravenstad",
+    "house_id": 43
+  },
+  {
+    "id": 150,
+    "name": "Casliv",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 151,
+    "name": "Cap fôret",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 152,
+    "name": "Ville Afrancais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 153,
+    "name": "Santáo",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 154,
+    "name": "Siebenbergerwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Vaud",
+    "house_id": 32
+  },
+  {
+    "id": 155,
+    "name": "Castelvetriniano",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 156,
+    "name": "Bedsten upon ful",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 157,
+    "name": "Ville Truiquis",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Ortonnaise",
+    "house_id": 28
+  },
+  {
+    "id": 158,
+    "name": "Erschenweiler",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ravenstad",
+    "house_id": 43
+  },
+  {
+    "id": 159,
+    "name": "Keerlebos",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Tyrannian",
+    "house_id": 47
+  },
+  {
+    "id": 160,
+    "name": "Archidonna",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Joncker",
+    "house_id": 4
+  },
+  {
+    "id": 161,
+    "name": "Zeëland",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Barlowe",
+    "house_id": 14
+  },
+  {
+    "id": 162,
+    "name": "Cartosáo",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Miramonte",
+    "house_id": 40
+  },
+  {
+    "id": 163,
+    "name": "Ligneville-Sur-Font",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Vixe de Loiree-bas",
+    "house_id": 39
+  },
+  {
+    "id": 164,
+    "name": "Burgerzuid",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Tyrannian",
+    "house_id": 47
+  },
+  {
+    "id": 165,
+    "name": "Fedsaxton",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Drache",
+    "house_id": 29
+  },
+  {
+    "id": 166,
+    "name": "Ingëntingerlän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Viduggla",
+    "house_id": 48
+  },
+  {
+    "id": 167,
+    "name": "Mortillajaux",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 168,
+    "name": "Wattenmeer",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 169,
+    "name": "Couldevonne",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 170,
+    "name": "Bittre-Mosais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 171,
+    "name": "Scacci",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 172,
+    "name": "Sjareks-Snølän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 173,
+    "name": "Lirgunn",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 174,
+    "name": "Mierenloop",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 175,
+    "name": "Lugo-Perezo",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 176,
+    "name": "Ultz",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ravenstad",
+    "house_id": 43
+  },
+  {
+    "id": 177,
+    "name": "Vaertpoort",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 178,
+    "name": "Veerle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 179,
+    "name": "Norrehurst",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Drache",
+    "house_id": 29
+  },
+  {
+    "id": 180,
+    "name": "Landelle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rosendahl",
+    "house_id": 45
+  },
+  {
+    "id": 181,
+    "name": "Redde",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kehlen",
+    "house_id": 37
+  },
+  {
+    "id": 182,
+    "name": "Erbtaubleierwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Vaud",
+    "house_id": 32
+  },
+  {
+    "id": 183,
+    "name": "Notting",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Barlowe",
+    "house_id": 14
+  },
+  {
+    "id": 184,
+    "name": "Kirben-und-Faltach",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 185,
+    "name": "Montrie",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 186,
+    "name": "Castletun",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 187,
+    "name": "Luzencon",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 188,
+    "name": "Ivrae",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 189,
+    "name": "Leomarenwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Everhardt",
+    "house_id": 33
+  },
+  {
+    "id": 190,
+    "name": "Shorois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 191,
+    "name": "Vullecavaglia",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 192,
+    "name": "Rebaronne",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 193,
+    "name": "Nordwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 194,
+    "name": "Schverdingberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 195,
+    "name": "Grisvarna",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 196,
+    "name": "Baaløy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 197,
+    "name": "Westerlaas",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 198,
+    "name": "Gaekraan",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 199,
+    "name": "Tebayburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 200,
+    "name": "Anglian Morass",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade",
+    "house_id": 1
+  },
+  {
+    "id": 201,
+    "name": "Maggiore Capri",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Alaire",
+    "house_id": 23
+  },
+  {
+    "id": 202,
+    "name": "Quartier Bertrange",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 203,
+    "name": "Savignelle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 204,
+    "name": "Lengelän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 205,
+    "name": "Banicca",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Gosselin",
+    "house_id": 17
+  },
+  {
+    "id": 206,
+    "name": "Junglfontaine",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rosendahl",
+    "house_id": 45
+  },
+  {
+    "id": 207,
+    "name": "Ile-de-Borrois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 208,
+    "name": "Castlebay",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 209,
+    "name": "Caltasin",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 210,
+    "name": "The Highlands",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 211,
+    "name": "Lristæll",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 212,
+    "name": "Halle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kehlen",
+    "house_id": 37
+  },
+  {
+    "id": 213,
+    "name": "Carreileigh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "van Dirkse",
+    "house_id": 11
+  },
+  {
+    "id": 214,
+    "name": "Accru",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Gosselin",
+    "house_id": 17
+  },
+  {
+    "id": 215,
+    "name": "Laicer",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 216,
+    "name": "Skogbrennalän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 217,
+    "name": "Cucáo",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 218,
+    "name": "Broix-de-Carne",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 219,
+    "name": "Sevastakos",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 220,
+    "name": "Nygárdsefjel",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 221,
+    "name": "Athelhorne",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 222,
+    "name": "Small Wiggerby",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Daubney",
+    "house_id": 16
+  },
+  {
+    "id": 223,
+    "name": "Eksdale",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Daubney",
+    "house_id": 16
+  },
+  {
+    "id": 224,
+    "name": "Nordmarken",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 225,
+    "name": "Blingbury",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Black",
+    "house_id": 24
+  },
+  {
+    "id": 226,
+    "name": "Ville Curan",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 227,
+    "name": "Carrois-do-Gibben",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Lioc",
+    "house_id": 30
+  },
+  {
+    "id": 228,
+    "name": "Narlas",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Black",
+    "house_id": 24
+  },
+  {
+    "id": 229,
+    "name": "Elkenburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 230,
+    "name": "Fidston",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 231,
+    "name": "Sange-vall",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 232,
+    "name": "Vlissinghelm",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 233,
+    "name": "Dragenhurst",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Drache",
+    "house_id": 29
+  },
+  {
+    "id": 234,
+    "name": "Saill",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 235,
+    "name": "pepellos",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 236,
+    "name": "Kroonsteel",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 237,
+    "name": "Anthon",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 238,
+    "name": "Tristë",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 239,
+    "name": "Boorswick",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 240,
+    "name": "Ulfraeksim",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 241,
+    "name": "Upperhamm upon ful",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "van Dirkse",
+    "house_id": 11
+  },
+  {
+    "id": 242,
+    "name": "Butterwick",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 243,
+    "name": "Vertinøy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 244,
+    "name": "Meerburg-Kovarov",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 245,
+    "name": "Lochoidsdale",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 246,
+    "name": "Côte Lhermoire",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Vixe de Loiree-bas",
+    "house_id": 39
+  },
+  {
+    "id": 247,
+    "name": "Sange-Lagne",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 248,
+    "name": "Marsalosi",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 249,
+    "name": "Cartaghena",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Miramonte",
+    "house_id": 40
+  },
+  {
+    "id": 250,
+    "name": "Champoluc-Osta",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 251,
+    "name": "Karelburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 252,
+    "name": "Limbeville",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 253,
+    "name": "Oxenlake",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 254,
+    "name": "Derevna-Moktoboy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kostalansky",
+    "house_id": 38
+  },
+  {
+    "id": 255,
+    "name": "Fërtmarken",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 256,
+    "name": "Bendhamm",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 257,
+    "name": "Czabri-Lødingen",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 258,
+    "name": "Ciudad del cazalla",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Anahera",
+    "house_id": 13
+  },
+  {
+    "id": 259,
+    "name": "Flensenburg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 260,
+    "name": "Heartbury",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Reinard",
+    "house_id": 44
+  },
+  {
+    "id": 261,
+    "name": "Galloy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 262,
+    "name": "Parenest",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 263,
+    "name": "Nörrenwich-Heim ober Eifenforst",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Vaud",
+    "house_id": 32
+  },
+  {
+    "id": 264,
+    "name": "Billunderborg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivarr",
+    "house_id": 5
+  },
+  {
+    "id": 265,
+    "name": "Lampeport",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 266,
+    "name": "Allejustrellazman",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 267,
+    "name": "San Justinian",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Wodenstaff",
+    "house_id": 50
+  },
+  {
+    "id": 268,
+    "name": "Kinwrey",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 269,
+    "name": "Vittorio",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 270,
+    "name": "Fahrbelling",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 271,
+    "name": "Frillebourgh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 272,
+    "name": "Theomarenwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 273,
+    "name": "Filtleigh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Reinard",
+    "house_id": 44
+  },
+  {
+    "id": 274,
+    "name": "Sanempach",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Peirgarten",
+    "house_id": 42
+  },
+  {
+    "id": 275,
+    "name": "Lonbridge",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 276,
+    "name": "Kentwynstead",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": "",
+    "name": "Castro Carcel",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 278,
+    "name": "Gudverinlän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Viduggla",
+    "house_id": 48
+  },
+  {
+    "id": 279,
+    "name": "Vallo de Calmino",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 280,
+    "name": "Lowesoft",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Barlowe",
+    "house_id": 14
+  },
+  {
+    "id": 281,
+    "name": "Wexsenfird",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 282,
+    "name": "Longlaiville",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Peirgarten",
+    "house_id": 42
+  },
+  {
+    "id": 283,
+    "name": "La Cresse",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 284,
+    "name": "Trapermettino",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Joncker",
+    "house_id": 4
+  },
+  {
+    "id": 285,
+    "name": "Vigeviano",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 286,
+    "name": "Knight Isle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 287,
+    "name": "Ansenbourgh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Peirgarten",
+    "house_id": 42
+  },
+  {
+    "id": 288,
+    "name": "Lrieg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 289,
+    "name": "Kryvosynn",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 290,
+    "name": "Pach Norrlach",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 291,
+    "name": "Côte Plessis",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Celyreos",
+    "house_id": 52
+  },
+  {
+    "id": 292,
+    "name": "Chussex",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 293,
+    "name": "Côte Corneuille",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 294,
+    "name": "Lutherstadt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ravenstad",
+    "house_id": 43
+  },
+  {
+    "id": 295,
+    "name": "Ogre-Llrollenlän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Haagenvig",
+    "house_id": 34
+  },
+  {
+    "id": 297,
+    "name": "Saint-Mirais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Gosselin",
+    "house_id": 17
+  },
+  {
+    "id": 298,
+    "name": "Vaylais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 299,
+    "name": "Calemberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 300,
+    "name": "Ost-Heilingegrabe",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 301,
+    "name": "Cap Buclair",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 302,
+    "name": "Marmontania",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 303,
+    "name": "Middenhurst",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Drache",
+    "house_id": 29
+  },
+  {
+    "id": 304,
+    "name": "Churst",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 305,
+    "name": "Coorside",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Daubney",
+    "house_id": 16
+  },
+  {
+    "id": 306,
+    "name": "Sael",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Black",
+    "house_id": 24
+  },
+  {
+    "id": 307,
+    "name": "Lorhauser",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 308,
+    "name": "Justiniusstadt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rosendahl",
+    "house_id": 45
+  },
+  {
+    "id": 309,
+    "name": "Crastö",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 310,
+    "name": "Sterrenwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 311,
+    "name": "Resenteois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "de Paquet",
+    "house_id": 18
+  },
+  {
+    "id": 312,
+    "name": "Laonne",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 313,
+    "name": "Jodi",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 314,
+    "name": "Camerito",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 315,
+    "name": "Pellegrino Martina",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 316,
+    "name": "Porton",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 317,
+    "name": "Newbrigge-Folsterwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 318,
+    "name": "Parbudicze",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 319,
+    "name": "Morgwhen",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Barlowe",
+    "house_id": 14
+  },
+  {
+    "id": 320,
+    "name": "Czwartenheer",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade-Schwarze",
+    "house_id": 2
+  },
+  {
+    "id": 321,
+    "name": "Dömitzberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 322,
+    "name": "Collen-Bas",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Alaire",
+    "house_id": 23
+  },
+  {
+    "id": 323,
+    "name": "Kennriclake",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 324,
+    "name": "Vicossato",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 325,
+    "name": "Merinoy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 326,
+    "name": "Bellinzonia",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Orazio",
+    "house_id": 19
+  },
+  {
+    "id": 327,
+    "name": "Kinguinesse",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 328,
+    "name": "Benverin",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 329,
+    "name": "Storwich",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 330,
+    "name": "Dunfarrigh",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 331,
+    "name": "Newstonloch",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Rolvdahl",
+    "house_id": 8
+  },
+  {
+    "id": 332,
+    "name": "Canach-Vilhof",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 333,
+    "name": "Gardlingwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 334,
+    "name": "Osterburgwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 335,
+    "name": "Reelen-Aansberg",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Vaud",
+    "house_id": 32
+  },
+  {
+    "id": 336,
+    "name": "Tristoy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 337,
+    "name": "Alcarala Réal",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Anahera",
+    "house_id": 13
+  },
+  {
+    "id": 338,
+    "name": "Sacille",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lampero",
+    "house_id": 6
+  },
+  {
+    "id": 339,
+    "name": "Kriegkap",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 340,
+    "name": "Vixchancourt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 341,
+    "name": "Donano",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Anahera",
+    "house_id": 13
+  },
+  {
+    "id": 342,
+    "name": "Bichancourt",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Ivrae",
+    "house_id": 3
+  },
+  {
+    "id": 343,
+    "name": "Pikkebaes",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 344,
+    "name": "Ile-de-Cancois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 345,
+    "name": "Randazzano",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Joncker",
+    "house_id": 4
+  },
+  {
+    "id": 346,
+    "name": "Morcange",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 347,
+    "name": "Lausitte",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kehlen",
+    "house_id": 37
+  },
+  {
+    "id": 348,
+    "name": "Lastradois",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 349,
+    "name": "Helais",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 350,
+    "name": "Cressille",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "du Pont",
+    "house_id": 31
+  },
+  {
+    "id": 351,
+    "name": "Jegvetkkelän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Howlester",
+    "house_id": 36
+  },
+  {
+    "id": 352,
+    "name": "Carroburgen",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Tyrannian",
+    "house_id": 47
+  },
+  {
+    "id": 353,
+    "name": "Ducanelle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Lécuyer",
+    "house_id": 39
+  },
+  {
+    "id": 354,
+    "name": "Pack Isle",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 355,
+    "name": "Termini",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "dei Termini",
+    "house_id": 27
+  },
+  {
+    "id": 356,
+    "name": "Saint-Etruve",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 357,
+    "name": "Maerland",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Harhold",
+    "house_id": 35
+  },
+  {
+    "id": 358,
+    "name": "Ville Salars",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 359,
+    "name": "Skjermerlän",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Santorski",
+    "house_id": 10
+  },
+  {
+    "id": 360,
+    "name": "Mussolomeli",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "di Alan",
+    "house_id": 20
+  },
+  {
+    "id": 361,
+    "name": "Stanbsury",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Leberecht",
+    "house_id": 7
+  },
+  {
+    "id": 362,
+    "name": "Anglia",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kade",
+    "house_id": 1
+  },
+  {
+    "id": 363,
+    "name": "Boder-Retheimgrabe",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Vaud",
+    "house_id": 32
+  },
+  {
+    "id": 364,
+    "name": "Beetzenwald",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Typhonus",
+    "house_id": 10
+  },
+  {
+    "id": 365,
+    "name": "Styrkenskag",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Zastórzy",
+    "house_id": 12
+  },
+  {
+    "id": 366,
+    "name": "Kollenberg-Hradicz",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 367,
+    "name": "Nordstrand",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 368,
+    "name": "Thessalonikos",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 369,
+    "name": "Extratorøy",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  },
+  {
+    "id": 370,
+    "name": "Locarnio",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Morgann",
+    "house_id": 41
+  },
+  {
+    "id": 371,
+    "name": "Axl",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kehlen",
+    "house_id": 37
+  },
+  {
+    "id": 372,
+    "name": "Saint-Claivont",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "d'Aruele",
+    "house_id": 15
+  },
+  {
+    "id": 373,
+    "name": "Warre",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Kehlen",
+    "house_id": 37
+  },
+  {
+    "id": 19,
+    "name": "Regalia",
+    "manpower": 10000,
+    "tax": 500,
+    "house": "Unowned",
+    "house_id": 0
+  }
+]
