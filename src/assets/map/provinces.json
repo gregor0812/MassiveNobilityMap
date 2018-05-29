@@ -1,10 +1,13 @@
-[{
+[
+  {
     "id": 1,
     "name": "Compatrieland",
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 2,
@@ -12,7 +15,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 3,
@@ -20,7 +25,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 4,
@@ -28,7 +35,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 5,
@@ -36,7 +45,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 6,
@@ -44,7 +55,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 7,
@@ -52,7 +65,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 8,
@@ -60,7 +75,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 9,
@@ -68,7 +85,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 10,
@@ -76,7 +95,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 11,
@@ -84,7 +105,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 12,
@@ -92,7 +115,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 13,
@@ -100,7 +125,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 14,
@@ -108,7 +135,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 15,
@@ -116,7 +145,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade",
-    "house_id": 1
+    "house_id": 1,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 16,
@@ -124,7 +155,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 17,
@@ -132,7 +165,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 18,
@@ -140,7 +175,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 20,
@@ -148,7 +185,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 21,
@@ -156,7 +195,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Anahera",
-    "house_id": 13
+    "house_id": 13,
+    "goods_id": 19,
+    "goods_name": "Plantations"
   },
   {
     "id": 22,
@@ -164,7 +205,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 23,
@@ -172,7 +215,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Lioc",
-    "house_id": 30
+    "house_id": 30,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 24,
@@ -180,7 +225,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 25,
@@ -188,7 +235,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 26,
@@ -196,7 +245,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 21,
+    "goods_name": "Salt"
   },
   {
     "id": 27,
@@ -204,7 +255,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 28,
@@ -212,7 +265,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Vaud",
-    "house_id": 32
+    "house_id": 32,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 29,
@@ -220,7 +275,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 30,
@@ -228,7 +285,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kostalansky",
-    "house_id": 38
+    "house_id": 38,
+    "goods_id": 13,
+    "goods_name": "Silver"
   },
   {
     "id": 31,
@@ -236,15 +295,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 32,
-    "name": "Ciudad del puente",
+    "name": "Ciudad del Puente",
     "manpower": 10000,
     "tax": 500,
     "house": "Anahera",
-    "house_id": 13
+    "house_id": 13,
+    "goods_id": 18,
+    "goods_name": "Opiates"
   },
   {
     "id": 33,
@@ -252,7 +315,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 34,
@@ -260,7 +325,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Winslough",
-    "house_id": 49
+    "house_id": 49,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 35,
@@ -268,7 +335,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 36,
@@ -276,7 +345,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Anahera",
-    "house_id": 13
+    "house_id": 13,
+    "goods_id": 19,
+    "goods_name": "Plantations"
   },
   {
     "id": 37,
@@ -284,7 +355,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ravenstad",
-    "house_id": 43
+    "house_id": 43,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 38,
@@ -292,7 +365,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 15,
+    "goods_name": "Jewelry"
   },
   {
     "id": 39,
@@ -300,7 +375,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ravenstad",
-    "house_id": 43
+    "house_id": 43,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 40,
@@ -308,7 +385,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Tyrannian",
-    "house_id": 47
+    "house_id": 47,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 41,
@@ -316,7 +395,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 42,
@@ -324,15 +405,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 43,
-    "name": "Carvon upon ful",
+    "name": "Carvon upon Ful",
     "manpower": 10000,
     "tax": 500,
     "house": "van Dirkse",
-    "house_id": 11
+    "house_id": 11,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 44,
@@ -340,7 +425,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Joncker",
-    "house_id": 4
+    "house_id": 4,
+    "goods_id": 19,
+    "goods_name": "Plantations"
   },
   {
     "id": 45,
@@ -348,7 +435,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 46,
@@ -356,7 +445,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kehlen",
-    "house_id": 37
+    "house_id": 37,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 47,
@@ -364,7 +455,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Vixe de Loiree-bas",
-    "house_id": 39
+    "house_id": 39,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 48,
@@ -372,7 +465,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 49,
@@ -380,7 +475,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 50,
@@ -388,7 +485,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 51,
@@ -396,7 +495,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 52,
@@ -404,7 +505,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 53,
@@ -412,15 +515,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Miramonte",
-    "house_id": 40
+    "house_id": 40,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 54,
-    "name": "Soleuvre Sur-Essete",
+    "name": "Soleuvre sur-Essete",
     "manpower": 10000,
     "tax": 500,
     "house": "du Lioc",
-    "house_id": 30
+    "house_id": 30,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 55,
@@ -428,7 +535,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rosendahl",
-    "house_id": 45
+    "house_id": 45,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 56,
@@ -436,7 +545,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 57,
@@ -444,7 +555,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 58,
@@ -452,7 +565,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 59,
@@ -460,7 +575,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 60,
@@ -468,7 +585,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Claudio",
-    "house_id": 26
+    "house_id": 26,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 61,
@@ -476,7 +595,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 62,
@@ -484,7 +605,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Valeur",
-    "house_id": 9
+    "house_id": 9,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 63,
@@ -492,7 +615,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 16,
+    "goods_name": "Gems"
   },
   {
     "id": 64,
@@ -500,7 +625,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Valeur",
-    "house_id": 9
+    "house_id": 9,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 65,
@@ -508,7 +635,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 66,
@@ -516,7 +645,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 67,
@@ -524,7 +655,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 68,
@@ -532,7 +665,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 69,
@@ -540,7 +675,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Vixe de Loiree-bas",
-    "house_id": 39
+    "house_id": 39,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 70,
@@ -548,7 +685,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 71,
@@ -556,7 +695,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Daubney",
-    "house_id": 16
+    "house_id": 16,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 72,
@@ -564,7 +705,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 73,
@@ -572,7 +715,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 74,
@@ -580,7 +725,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 75,
@@ -588,7 +735,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 76,
@@ -596,7 +745,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 77,
@@ -604,7 +755,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 78,
@@ -612,7 +765,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 79,
@@ -620,7 +775,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 80,
@@ -628,7 +785,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 81,
@@ -636,7 +795,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "van Dirkse",
-    "house_id": 11
+    "house_id": 11,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 82,
@@ -644,7 +805,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Wodenstaff",
-    "house_id": 50
+    "house_id": 50,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 83,
@@ -652,7 +815,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 84,
@@ -660,7 +825,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Everhardt",
-    "house_id": 33
+    "house_id": 33,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 85,
@@ -668,7 +835,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Daubney",
-    "house_id": 16
+    "house_id": 16,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 86,
@@ -676,7 +845,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 87,
@@ -684,7 +855,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Lioc",
-    "house_id": 30
+    "house_id": 30,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 88,
@@ -692,7 +865,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 89,
@@ -700,7 +875,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Gosselin",
-    "house_id": 17
+    "house_id": 17,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 90,
@@ -708,7 +885,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 16,
+    "goods_name": "Gems"
   },
   {
     "id": 91,
@@ -716,7 +895,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Sorenvik",
-    "house_id": 46
+    "house_id": 46,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 92,
@@ -724,7 +905,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 93,
@@ -732,7 +915,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 94,
@@ -740,7 +925,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Gosselin",
-    "house_id": 17
+    "house_id": 17,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 95,
@@ -748,7 +935,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 96,
@@ -756,7 +945,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 97,
@@ -764,7 +955,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Gosselin",
-    "house_id": 17
+    "house_id": 17,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 98,
@@ -772,7 +965,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Daubney",
-    "house_id": 16
+    "house_id": 16,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 99,
@@ -780,7 +975,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Alaire",
-    "house_id": 23
+    "house_id": 23,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 100,
@@ -788,7 +985,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 101,
@@ -796,7 +995,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lécuyer",
-    "house_id": 39
+    "house_id": 39,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 102,
@@ -804,7 +1005,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 103,
@@ -812,7 +1015,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 104,
@@ -820,7 +1025,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 105,
@@ -828,7 +1035,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Barlowe",
-    "house_id": 14
+    "house_id": 14,
+    "goods_id": 23,
+    "goods_name": "Glass"
   },
   {
     "id": 106,
@@ -836,7 +1045,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 107,
@@ -844,7 +1055,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Fong",
-    "house_id": 21
+    "house_id": 21,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 108,
@@ -852,7 +1065,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 109,
@@ -860,7 +1075,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Viduggla",
-    "house_id": 48
+    "house_id": 48,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 110,
@@ -868,7 +1085,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 111,
@@ -876,7 +1095,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Peirgarten",
-    "house_id": 42
+    "house_id": 42,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 112,
@@ -884,7 +1105,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Koljarvik",
-    "house_id": 22
+    "house_id": 22,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 113,
@@ -892,7 +1115,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 114,
@@ -900,7 +1125,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 115,
@@ -908,7 +1135,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 116,
@@ -916,7 +1145,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 374,
@@ -924,7 +1155,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Joncker",
-    "house_id": 4
+    "house_id": 4,
+    "goods_id": 13,
+    "goods_name": "Silver"
   },
   {
     "id": 118,
@@ -932,7 +1165,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 119,
@@ -940,7 +1175,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 120,
@@ -948,7 +1185,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Everhardt",
-    "house_id": 33
+    "house_id": 33,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 121,
@@ -956,7 +1195,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "van Dirkse",
-    "house_id": 11
+    "house_id": 11,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 122,
@@ -964,7 +1205,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 123,
@@ -972,7 +1215,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 124,
@@ -980,7 +1225,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivarr",
-    "house_id": 5
+    "house_id": 5,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 125,
@@ -988,7 +1235,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Santorski",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 126,
@@ -996,7 +1245,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 127,
@@ -1004,15 +1255,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 128,
-    "name": "Birmarken",
+    "name": "Bismarken",
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "cloth"
   },
   {
     "id": 129,
@@ -1020,7 +1275,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rosendahl",
-    "house_id": 45
+    "house_id": 45,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 130,
@@ -1028,7 +1285,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 131,
@@ -1036,7 +1295,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 16,
+    "goods_name": "Gems"
   },
   {
     "id": 132,
@@ -1044,7 +1305,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 133,
@@ -1052,7 +1315,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 134,
@@ -1060,7 +1325,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "von Duerr",
-    "house_id": 51
+    "house_id": 51,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 135,
@@ -1068,7 +1335,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 136,
@@ -1076,7 +1345,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Black",
-    "house_id": 24
+    "house_id": 24,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 137,
@@ -1084,7 +1355,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 138,
@@ -1092,7 +1365,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 139,
@@ -1100,7 +1375,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Carwell",
-    "house_id": 25
+    "house_id": 25,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 140,
@@ -1108,7 +1385,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Tyrannian",
-    "house_id": 47
+    "house_id": 47,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 141,
@@ -1116,7 +1395,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 16,
+    "goods_name": "Gems"
   },
   {
     "id": 142,
@@ -1124,7 +1405,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivarr",
-    "house_id": 5
+    "house_id": 5,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 143,
@@ -1132,7 +1415,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 144,
@@ -1140,7 +1425,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 145,
@@ -1148,7 +1435,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 146,
@@ -1156,7 +1445,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 147,
@@ -1164,7 +1455,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 148,
@@ -1172,7 +1465,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 149,
@@ -1180,7 +1475,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ravenstad",
-    "house_id": 43
+    "house_id": 43,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 150,
@@ -1188,7 +1485,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 151,
@@ -1196,7 +1495,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 152,
@@ -1204,7 +1505,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 153,
@@ -1212,7 +1515,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 154,
@@ -1220,7 +1525,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Vaud",
-    "house_id": 32
+    "house_id": 32,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 155,
@@ -1228,7 +1535,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 156,
@@ -1236,7 +1545,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 157,
@@ -1244,7 +1555,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Ortonnaise",
-    "house_id": 28
+    "house_id": 28,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 158,
@@ -1252,7 +1565,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ravenstad",
-    "house_id": 43
+    "house_id": 43,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 159,
@@ -1260,7 +1575,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Tyrannian",
-    "house_id": 47
+    "house_id": 47,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 160,
@@ -1268,7 +1585,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Joncker",
-    "house_id": 4
+    "house_id": 4,
+    "goods_id": 19,
+    "goods_name": "Plantations"
   },
   {
     "id": 161,
@@ -1276,7 +1595,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Barlowe",
-    "house_id": 14
+    "house_id": 14,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 162,
@@ -1284,15 +1605,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Miramonte",
-    "house_id": 40
+    "house_id": 40,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 163,
-    "name": "Ligneville-Sur-Font",
+    "name": "Ligneville-sur-Font",
     "manpower": 10000,
     "tax": 500,
     "house": "Vixe de Loiree-bas",
-    "house_id": 39
+    "house_id": 39,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 164,
@@ -1300,7 +1625,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Tyrannian",
-    "house_id": 47
+    "house_id": 47,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 165,
@@ -1308,7 +1635,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Drache",
-    "house_id": 29
+    "house_id": 29,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 166,
@@ -1316,7 +1645,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Viduggla",
-    "house_id": 48
+    "house_id": 48,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 167,
@@ -1324,7 +1655,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 15,
+    "goods_name": "Jewelry"
   },
   {
     "id": 168,
@@ -1332,7 +1665,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 169,
@@ -1340,7 +1675,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 170,
@@ -1348,7 +1685,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 171,
@@ -1356,7 +1695,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 172,
@@ -1364,15 +1705,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 173,
-    "name": "Lirgunn",
+    "name": "Tigrunn",
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 174,
@@ -1380,7 +1725,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 175,
@@ -1388,7 +1735,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 176,
@@ -1396,7 +1745,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ravenstad",
-    "house_id": 43
+    "house_id": 43,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 177,
@@ -1404,7 +1755,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 178,
@@ -1412,7 +1765,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 179,
@@ -1420,7 +1775,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Drache",
-    "house_id": 29
+    "house_id": 29,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 180,
@@ -1428,7 +1785,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rosendahl",
-    "house_id": 45
+    "house_id": 45,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 181,
@@ -1436,7 +1795,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kehlen",
-    "house_id": 37
+    "house_id": 37,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 182,
@@ -1444,7 +1805,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Vaud",
-    "house_id": 32
+    "house_id": 32,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 183,
@@ -1452,7 +1815,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Barlowe",
-    "house_id": 14
+    "house_id": 14,
+    "goods_id": 23,
+    "goods_name": "Glass"
   },
   {
     "id": 184,
@@ -1460,7 +1825,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 185,
@@ -1468,7 +1835,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 186,
@@ -1476,7 +1845,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 187,
@@ -1484,7 +1855,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 14,
+    "goods_name": "Gold"
   },
   {
     "id": 188,
@@ -1492,7 +1865,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 189,
@@ -1500,7 +1875,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Everhardt",
-    "house_id": 33
+    "house_id": 33,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 190,
@@ -1508,7 +1885,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 191,
@@ -1516,7 +1895,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 192,
@@ -1524,7 +1905,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 193,
@@ -1532,7 +1915,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 194,
@@ -1540,7 +1925,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 195,
@@ -1548,7 +1935,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 196,
@@ -1556,7 +1945,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 197,
@@ -1564,7 +1955,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 198,
@@ -1572,7 +1965,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 199,
@@ -1580,7 +1975,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 200,
@@ -1588,7 +1985,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade",
-    "house_id": 1
+    "house_id": 1,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 201,
@@ -1596,7 +1995,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Alaire",
-    "house_id": 23
+    "house_id": 23,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 202,
@@ -1604,7 +2005,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 203,
@@ -1612,7 +2015,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 14,
+    "goods_name": "Gold"
   },
   {
     "id": 204,
@@ -1620,7 +2025,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 205,
@@ -1628,7 +2035,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Gosselin",
-    "house_id": 17
+    "house_id": 17,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 206,
@@ -1636,7 +2045,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rosendahl",
-    "house_id": 45
+    "house_id": 45,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 207,
@@ -1644,7 +2055,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 208,
@@ -1652,7 +2065,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 209,
@@ -1660,7 +2075,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 210,
@@ -1668,7 +2085,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 211,
@@ -1676,7 +2095,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 212,
@@ -1684,7 +2105,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kehlen",
-    "house_id": 37
+    "house_id": 37,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 213,
@@ -1692,7 +2115,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "van Dirkse",
-    "house_id": 11
+    "house_id": 11,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 214,
@@ -1700,7 +2125,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Gosselin",
-    "house_id": 17
+    "house_id": 17,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 215,
@@ -1708,7 +2135,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 216,
@@ -1716,7 +2145,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 217,
@@ -1724,7 +2155,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 218,
@@ -1732,7 +2165,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 219,
@@ -1740,7 +2175,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 220,
@@ -1748,7 +2185,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 221,
@@ -1756,7 +2195,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 222,
@@ -1764,7 +2205,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Daubney",
-    "house_id": 16
+    "house_id": 16,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 223,
@@ -1772,7 +2215,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Daubney",
-    "house_id": 16
+    "house_id": 16,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 224,
@@ -1780,7 +2225,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 225,
@@ -1788,7 +2235,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Black",
-    "house_id": 24
+    "house_id": 24,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 226,
@@ -1796,7 +2245,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 15,
+    "goods_name": "Jewelry"
   },
   {
     "id": 227,
@@ -1804,7 +2255,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Lioc",
-    "house_id": 30
+    "house_id": 30,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 228,
@@ -1812,7 +2265,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Black",
-    "house_id": 24
+    "house_id": 24,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 229,
@@ -1820,7 +2275,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 230,
@@ -1828,7 +2285,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 231,
@@ -1836,7 +2295,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 232,
@@ -1844,7 +2305,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 233,
@@ -1852,7 +2315,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Drache",
-    "house_id": 29
+    "house_id": 29,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 234,
@@ -1860,7 +2325,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 235,
@@ -1868,7 +2335,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 236,
@@ -1876,7 +2345,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 237,
@@ -1884,7 +2355,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 238,
@@ -1892,7 +2365,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 239,
@@ -1900,7 +2375,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 240,
@@ -1908,15 +2385,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 241,
-    "name": "Upperhamm upon ful",
+    "name": "Upperhamm upon Ful",
     "manpower": 10000,
     "tax": 500,
     "house": "van Dirkse",
-    "house_id": 11
+    "house_id": 11,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 242,
@@ -1924,7 +2405,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 17,
+    "goods_name": "Butter"
   },
   {
     "id": 243,
@@ -1932,7 +2415,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 244,
@@ -1940,7 +2425,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 245,
@@ -1948,7 +2435,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 246,
@@ -1956,7 +2445,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Vixe de Loiree-bas",
-    "house_id": 39
+    "house_id": 39,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 247,
@@ -1964,7 +2455,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 248,
@@ -1972,7 +2465,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 249,
@@ -1980,7 +2475,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Miramonte",
-    "house_id": 40
+    "house_id": 40,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 250,
@@ -1988,7 +2485,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 251,
@@ -1996,7 +2495,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 252,
@@ -2004,7 +2505,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 253,
@@ -2012,7 +2515,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 254,
@@ -2020,7 +2525,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kostalansky",
-    "house_id": 38
+    "house_id": 38,
+    "goods_id": 13,
+    "goods_name": "Silver"
   },
   {
     "id": 255,
@@ -2028,7 +2535,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 256,
@@ -2036,7 +2545,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 257,
@@ -2044,15 +2555,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 258,
-    "name": "Ciudad del cazalla",
+    "name": "Ciudad del Cazalla",
     "manpower": 10000,
     "tax": 500,
     "house": "Anahera",
-    "house_id": 13
+    "house_id": 13,
+    "goods_id": 18,
+    "goods_name": "Opiates"
   },
   {
     "id": 259,
@@ -2060,7 +2575,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 260,
@@ -2068,7 +2585,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Reinard",
-    "house_id": 44
+    "house_id": 44,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 261,
@@ -2076,7 +2595,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 262,
@@ -2084,7 +2605,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 263,
@@ -2092,7 +2615,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Vaud",
-    "house_id": 32
+    "house_id": 32,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 264,
@@ -2100,7 +2625,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivarr",
-    "house_id": 5
+    "house_id": 5,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 265,
@@ -2108,7 +2635,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 266,
@@ -2116,7 +2645,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 267,
@@ -2124,7 +2655,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Wodenstaff",
-    "house_id": 50
+    "house_id": 50,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 268,
@@ -2132,7 +2665,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 269,
@@ -2140,7 +2675,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 270,
@@ -2148,7 +2685,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 271,
@@ -2156,7 +2695,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 272,
@@ -2164,7 +2705,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 273,
@@ -2172,7 +2715,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Reinard",
-    "house_id": 44
+    "house_id": 44,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 274,
@@ -2180,15 +2725,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Peirgarten",
-    "house_id": 42
+    "house_id": 42,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 275,
-    "name": "Lonbridge",
+    "name": "Tonbridge",
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 276,
@@ -2196,15 +2745,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
-    "id": "",
+    "id": 375,
     "name": "Castro Carcel",
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 278,
@@ -2212,7 +2765,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Viduggla",
-    "house_id": 48
+    "house_id": 48,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 279,
@@ -2220,7 +2775,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 280,
@@ -2228,7 +2785,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Barlowe",
-    "house_id": 14
+    "house_id": 14,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 281,
@@ -2236,7 +2795,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 282,
@@ -2244,7 +2805,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Peirgarten",
-    "house_id": 42
+    "house_id": 42,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 283,
@@ -2252,7 +2815,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 15,
+    "goods_name": "Jewelry"
   },
   {
     "id": 284,
@@ -2260,7 +2825,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Joncker",
-    "house_id": 4
+    "house_id": 4,
+    "goods_id": 12,
+    "goods_name": "Dye"
   },
   {
     "id": 285,
@@ -2268,7 +2835,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 286,
@@ -2276,7 +2845,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 287,
@@ -2284,15 +2855,19 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Peirgarten",
-    "house_id": 42
+    "house_id": 42,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 288,
-    "name": "Lrieg",
+    "name": "Trieg",
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 289,
@@ -2300,7 +2875,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 290,
@@ -2308,7 +2885,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 291,
@@ -2316,7 +2895,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Celyreos",
-    "house_id": 52
+    "house_id": 52,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 292,
@@ -2324,7 +2905,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 293,
@@ -2332,7 +2915,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 294,
@@ -2340,7 +2925,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ravenstad",
-    "house_id": 43
+    "house_id": 43,
+    "goods_id": 13,
+    "goods_name": "Silver"
   },
   {
     "id": 295,
@@ -2348,7 +2935,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Haagenvig",
-    "house_id": 34
+    "house_id": 34,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 297,
@@ -2356,7 +2945,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Gosselin",
-    "house_id": 17
+    "house_id": 17,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 298,
@@ -2364,7 +2955,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 299,
@@ -2372,7 +2965,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 300,
@@ -2380,7 +2975,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 301,
@@ -2388,7 +2985,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 302,
@@ -2396,7 +2995,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 303,
@@ -2404,7 +3005,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Drache",
-    "house_id": 29
+    "house_id": 29,
+    "goods_id": 5,
+    "goods_name": "Wool"
   },
   {
     "id": 304,
@@ -2412,7 +3015,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 305,
@@ -2420,7 +3025,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Daubney",
-    "house_id": 16
+    "house_id": 16,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 306,
@@ -2428,7 +3035,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Black",
-    "house_id": 24
+    "house_id": 24,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 307,
@@ -2436,7 +3045,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 308,
@@ -2444,7 +3055,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rosendahl",
-    "house_id": 45
+    "house_id": 45,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 309,
@@ -2452,7 +3065,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 310,
@@ -2460,7 +3075,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 311,
@@ -2468,7 +3085,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "de Paquet",
-    "house_id": 18
+    "house_id": 18,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 312,
@@ -2476,7 +3095,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 313,
@@ -2484,7 +3105,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 314,
@@ -2492,7 +3115,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 315,
@@ -2500,7 +3125,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 316,
@@ -2508,7 +3135,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 317,
@@ -2516,7 +3145,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 318,
@@ -2524,7 +3155,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 319,
@@ -2532,7 +3165,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Barlowe",
-    "house_id": 14
+    "house_id": 14,
+    "goods_id": 23,
+    "goods_name": "Glass"
   },
   {
     "id": 320,
@@ -2540,7 +3175,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade-Schwarze",
-    "house_id": 2
+    "house_id": 2,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 321,
@@ -2548,7 +3185,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 322,
@@ -2556,7 +3195,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Alaire",
-    "house_id": 23
+    "house_id": 23,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 323,
@@ -2564,7 +3205,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 324,
@@ -2572,7 +3215,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 325,
@@ -2580,7 +3225,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 326,
@@ -2588,7 +3235,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Orazio",
-    "house_id": 19
+    "house_id": 19,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 327,
@@ -2596,7 +3245,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 328,
@@ -2604,7 +3255,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 329,
@@ -2612,7 +3265,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 330,
@@ -2620,7 +3275,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 331,
@@ -2628,7 +3285,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Rolvdahl",
-    "house_id": 8
+    "house_id": 8,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 332,
@@ -2636,7 +3295,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 333,
@@ -2644,7 +3305,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 334,
@@ -2652,7 +3315,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 335,
@@ -2660,7 +3325,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Vaud",
-    "house_id": 32
+    "house_id": 32,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 336,
@@ -2668,7 +3335,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 337,
@@ -2676,7 +3345,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Anahera",
-    "house_id": 13
+    "house_id": 13,
+    "goods_id": 19,
+    "goods_name": "Plantations"
   },
   {
     "id": 338,
@@ -2684,7 +3355,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lampero",
-    "house_id": 6
+    "house_id": 6,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 339,
@@ -2692,7 +3365,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 340,
@@ -2700,7 +3375,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 341,
@@ -2708,7 +3385,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Anahera",
-    "house_id": 13
+    "house_id": 13,
+    "goods_id": 19,
+    "goods_name": "Plantations"
   },
   {
     "id": 342,
@@ -2716,7 +3395,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Ivrae",
-    "house_id": 3
+    "house_id": 3,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 343,
@@ -2724,7 +3405,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 20,
+    "goods_name": "Fruit"
   },
   {
     "id": 344,
@@ -2732,7 +3415,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 345,
@@ -2740,7 +3425,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Joncker",
-    "house_id": 4
+    "house_id": 4,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 346,
@@ -2748,7 +3435,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 347,
@@ -2756,7 +3445,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kehlen",
-    "house_id": 37
+    "house_id": 37,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 348,
@@ -2764,7 +3455,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 16,
+    "goods_name": "Gems"
   },
   {
     "id": 349,
@@ -2772,7 +3465,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 350,
@@ -2780,7 +3475,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "du Pont",
-    "house_id": 31
+    "house_id": 31,
+    "goods_id": 14,
+    "goods_name": "Gold"
   },
   {
     "id": 351,
@@ -2788,7 +3485,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Howlester",
-    "house_id": 36
+    "house_id": 36,
+    "goods_id": 9,
+    "goods_name": "Coal"
   },
   {
     "id": 352,
@@ -2796,7 +3495,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Tyrannian",
-    "house_id": 47
+    "house_id": 47,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 353,
@@ -2804,7 +3505,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Lécuyer",
-    "house_id": 39
+    "house_id": 39,
+    "goods_id": 22,
+    "goods_name": "Tea"
   },
   {
     "id": 354,
@@ -2812,7 +3515,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 355,
@@ -2820,7 +3525,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "dei Termini",
-    "house_id": 27
+    "house_id": 27,
+    "goods_id": 7,
+    "goods_name": "Metallurgy"
   },
   {
     "id": 356,
@@ -2828,7 +3535,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 357,
@@ -2836,7 +3545,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Harhold",
-    "house_id": 35
+    "house_id": 35,
+    "goods_id": 3,
+    "goods_name": "Livestock"
   },
   {
     "id": 358,
@@ -2844,7 +3555,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 359,
@@ -2852,7 +3565,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Santorski",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 360,
@@ -2860,7 +3575,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "di Alan",
-    "house_id": 20
+    "house_id": 20,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 361,
@@ -2868,7 +3585,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Leberecht",
-    "house_id": 7
+    "house_id": 7,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 362,
@@ -2876,7 +3595,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kade",
-    "house_id": 1
+    "house_id": 1,
+    "goods_id": 1,
+    "goods_name": "Grain"
   },
   {
     "id": 363,
@@ -2884,7 +3605,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Vaud",
-    "house_id": 32
+    "house_id": 32,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 364,
@@ -2892,7 +3615,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Typhonus",
-    "house_id": 10
+    "house_id": 10,
+    "goods_id": 6,
+    "goods_name": "Fur"
   },
   {
     "id": 365,
@@ -2900,7 +3625,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Zastórzy",
-    "house_id": 12
+    "house_id": 12,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 366,
@@ -2908,7 +3635,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 8,
+    "goods_name": "Forestry"
   },
   {
     "id": 367,
@@ -2916,7 +3645,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 2,
+    "goods_name": "Fish"
   },
   {
     "id": 368,
@@ -2924,7 +3655,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": 24,
+    "goods_name": "Slaves"
   },
   {
     "id": 369,
@@ -2932,7 +3665,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 370,
@@ -2940,7 +3675,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Morgann",
-    "house_id": 41
+    "house_id": 41,
+    "goods_id": 11,
+    "goods_name": "Wine"
   },
   {
     "id": 371,
@@ -2948,7 +3685,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kehlen",
-    "house_id": 37
+    "house_id": 37,
+    "goods_id": 10,
+    "goods_name": "Cloth"
   },
   {
     "id": 372,
@@ -2956,7 +3695,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "d'Aruele",
-    "house_id": 15
+    "house_id": 15,
+    "goods_id": "",
+    "goods_name": ""
   },
   {
     "id": 373,
@@ -2964,7 +3705,9 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Kehlen",
-    "house_id": 37
+    "house_id": 37,
+    "goods_id": 4,
+    "goods_name": "Naval Supplies"
   },
   {
     "id": 19,
@@ -2972,6 +3715,8 @@
     "manpower": 10000,
     "tax": 500,
     "house": "Unowned",
-    "house_id": 0
+    "house_id": 0,
+    "goods_id": "",
+    "goods_name": ""
   }
 ]

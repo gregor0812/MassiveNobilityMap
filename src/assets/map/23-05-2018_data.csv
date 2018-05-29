@@ -1,0 +1,373 @@
+id,name,manpower,tax,house,house_id,goods_id,goods_name
+1,Compatrieland,10000,500,Kade-Schwarze,2,1,Grain
+2,Oostervelde,10000,500,Kade-Schwarze,2,1,Grain
+3,Kroonhof,10000,500,Kade-Schwarze,2,1,Grain
+4,Falkburg,10000,500,Kade-Schwarze,2,1,Grain
+5,Befielenburg,10000,500,Kade-Schwarze,2,1,Grain
+6,Hoogsbree,10000,500,Kade-Schwarze,2,1,Grain
+7,Neersakse,10000,500,Kade-Schwarze,2,1,Grain
+8,Sagchtenburg,10000,500,Kade-Schwarze,2,1,Grain
+9,Koolland,10000,500,Kade-Schwarze,2,1,Grain
+10,Koolmeer,10000,500,Kade-Schwarze,2,1,Grain
+11,Lartenmeer,10000,500,Kade-Schwarze,2,1,Grain
+12,Nachtenwaal,10000,500,Kade-Schwarze,2,1,Grain
+13,Waltenburg,10000,500,Kade-Schwarze,2,1,Grain
+14,Weerenburg,10000,500,Kade-Schwarze,2,1,Grain
+15,Medwen & Morris,10000,500,Kade,1,1,Grain
+16,Pach Lochain,10000,500,Howlester,36,2,Fish
+17,Pach Lallach,10000,500,Howlester,36,2,Fish
+18,Pach Kildairen,10000,500,Howlester,36,2,Fish
+20,Erme,10000,500,Unowned,0,10,Cloth
+21,El Rocío,10000,500,Anahera,13,19,Plantations
+22,Leerenberg,10000,500,Typhonus,10,3,Livestock
+23,Carrois-do-Lion,10000,500,du Lioc,30,10,Cloth
+24,Holzenwald,10000,500,Unowned,0,7,Metallurgy
+25,Brestobryn,10000,500,Unowned,0,8,Forestry
+26,Caleigh,10000,500,Leberecht,7,21,Salt
+27,Llanswyrth,10000,500,Howlester,36,2,Fish
+28,Klötzer-Roschewald,10000,500,d'Vaud,32,2,Fish
+29,Sange-Ruive,10000,500,Ivrae,3,11,Wine
+30,Vysa-Pruzhany,10000,500,Kostalansky,38,13,Silver
+31,Kallerwald,10000,500,Unowned,0,8,Forestry
+32,Ciudad del Puente,10000,500,Anahera,13,18,Opiates
+33,Adranebro,10000,500,di Alan,20,8,Forestry
+34,Ostlaukirchen,10000,500,Winslough,49,7,Metallurgy
+35,Buckslham,10000,500,Leberecht,7,10,Cloth
+36,Ciudad del Marchena,10000,500,Anahera,13,19,Plantations
+37,Insenborn Haute-Sûre,10000,500,Ravenstad,43,9,Coal
+38,Gramonde,10000,500,Unowned,0,15,Jewelry
+39,Michellons,10000,500,Ravenstad,43,10,Cloth
+40,Alexanderburg,10000,500,Tyrannian,47,1,Grain
+41,Yeltiki,10000,500,Unowned,0,12,Dye
+42,Arrianna,10000,500,Unowned,0,12,Dye
+43,Carvon upon Ful,10000,500,van Dirkse,11,5,Wool
+44,Amillia-Lloja,10000,500,Joncker,4,19,Plantations
+45,Saronn,10000,500,Lampero,6,7,Metallurgy
+46,Oxen,10000,500,Kehlen,37,10,Cloth
+47,Moulins-Sur-font,10000,500,Vixe de Loiree-bas,39,11,Wine
+48,Karle,10000,500,Unowned,0,10,Cloth
+49,Kaldekoy,10000,500,Unowned,0,12,Dye
+50,Niederzielenwald,10000,500,Unowned,0,8,Forestry
+51,Pach Cudaire,10000,500,Howlester,36,2,Fish
+52,Rötbergerland,10000,500,Unowned,0,8,Forestry
+53,Casa de Frontera,10000,500,Miramonte,40,10,Cloth
+54,Soleuvre sur-Essete,10000,500,du Lioc,30,10,Cloth
+55,Hiacheville,10000,500,Rosendahl,45,5,Wool
+56,Glenborach,10000,500,Unowned,0,9,Coal
+57,Swixoy,10000,500,Unowned,0,,
+58,Røyksopphære,10000,500,Unowned,0,2,Fish
+59,Nonswick,10000,500,Leberecht,7,10,Cloth
+60,Vaelfarme,10000,500,Claudio,26,1,Grain
+61,Mergoviste,10000,500,Unowned,0,,
+62,Montreill,10000,500,Valeur,9,10,Cloth
+63,Romais-Carnon,10000,500,du Pont,31,16,Gems
+64,Savignac,10000,500,Valeur,9,10,Cloth
+65,Libyavaskoye,10000,500,Unowned,0,8,Forestry
+66,Esracyusa,10000,500,di Alan,20,8,Forestry
+67,Ile-de-Morvois,10000,500,d'Aruele,15,,
+68,Morbengrino,10000,500,dei Orazio,19,7,Metallurgy
+69,Ezai-Sur-Font,10000,500,Vixe de Loiree-bas,39,11,Wine
+70,Sussanem,10000,500,du Pont,31,11,Wine
+71,Eksdale Greens,10000,500,Daubney,16,,
+72,Porthwrys,10000,500,Unowned,0,9,Coal
+73,Sasso-Giovia,10000,500,Lampero,6,7,Metallurgy
+74,Cardroheda,10000,500,Howlester,36,2,Fish
+75,Forli-e-vallo di Caro,10000,500,Lampero,6,7,Metallurgy
+76,Aldeimo de Albeira,10000,500,Unowned,0,12,Dye
+77,Keswickstrylake,10000,500,Rolvdahl,8,,
+78,Orazei,10000,500,dei Orazio,19,11,Wine
+79,Keislangerwald,10000,500,Unowned,0,8,Forestry
+80,Bromeberg,10000,500,Typhonus,10,3,Livestock
+81,Nordport,10000,500,van Dirkse,11,4,Naval Supplies
+82,Naserna,10000,500,Wodenstaff,50,4,Naval Supplies
+83,Schootseiland,10000,500,Unowned,0,1,Grain
+84,Handorïenstadt,10000,500,Everhardt,33,3,Livestock
+85,Eksdale Valley,10000,500,Daubney,16,,
+86,Wirtauberg,10000,500,Typhonus,10,10,Cloth
+87,Hinterboiss,10000,500,du Lioc,30,8,Forestry
+88,Leoncourt,10000,500,Ivrae,3,11,Wine
+89,Saint-Lumiere,10000,500,de Gosselin,17,,
+90,Arvieule,10000,500,du Pont,31,16,Gems
+91,Föhrborg,10000,500,Sorenvik,46,2,Fish
+92,Mondoirfais,10000,500,du Pont,31,11,Wine
+93,Schoonwellendam,10000,500,Unowned,0,4,Naval Supplies
+94,Mont Bertu,10000,500,de Gosselin,17,22,Tea
+95,Waldoisferge,10000,500,du Pont,31,20,Fruit
+96,Lorverin,10000,500,Rolvdahl,8,,
+97,Saint-Etoile,10000,500,de Gosselin,17,,
+98,Fertindale,10000,500,Daubney,16,,
+99,Gropanello,10000,500,Alaire,23,7,Metallurgy
+100,Saarle,10000,500,Unowned,0,10,Cloth
+101,Rivellois,10000,500,Lécuyer,39,22,Tea
+102,Guimaeres,10000,500,di Alan,20,4,Naval Supplies
+103,Ville Truiquis,10000,500,Howlester,36,2,Fish
+104,Quartier Garnis,10000,500,du Pont,31,11,Wine
+105,Luxoft,10000,500,Barlowe,14,23,Glass
+106,Perlive,10000,500,de Paquet,18,,
+107,Cap sutien,10000,500,Fong,21,22,Tea
+108,Dannellenberg,10000,500,Typhonus,10,6,Fur
+109,Hasterdreplän,10000,500,Viduggla,48,2,Fish
+110,Baste-Caerillion,10000,500,de Paquet,18,,
+111,Merschl,10000,500,Peirgarten,42,22,Tea
+112,Leckenborg,10000,500,Koljarvik,22,6,Fur
+113,Scarrais,10000,500,de Paquet,18,,
+114,Pach Mochain,10000,500,Howlester,36,2,Fish
+115,Glenmoryn,10000,500,Unowned,0,9,Coal
+116,Mørkvidskog,10000,500,Zastórzy,12,2,Fish
+374,Pallermino,10000,500,Joncker,4,13,Silver
+118,Pilisti,10000,500,Unowned,0,,
+119,Bootell-Burgh,10000,500,Unowned,0,,
+120,Allamariënstadt,10000,500,Everhardt,33,3,Livestock
+121,Listowe,10000,500,van Dirkse,11,5,Wool
+122,Vrouwenmeerle,10000,500,Unowned,0,4,Naval Supplies
+123,Røylikskoglän,10000,500,Unowned,0,2,Fish
+124,Bröddersby,10000,500,Ivarr,5,7,Metallurgy
+125,Gästrelänvatnan,10000,500,Santorski,10,6,Fur
+126,Shappenlake,10000,500,Rolvdahl,8,,
+127,Nørdheide-Bermarken,10000,500,Unowned,0,8,Forestry
+128,Bismarken,10000,500,Unowned,0,10,cloth
+129,Pétange,10000,500,Rosendahl,45,7,Metallurgy
+130,Fehrmannlän,10000,500,Zastórzy,12,2,Fish
+131,Gaichelle,10000,500,du Pont,31,16,Gems
+132,Wildsembeck,10000,500,Unowned,0,6,Fur
+133,Imeresileone,10000,500,di Alan,20,8,Forestry
+134,Ceillest,10000,500,von Duerr,51,7,Metallurgy
+135,Rokcyberg,10000,500,Unowned,0,8,Forestry
+136,Cambre,10000,500,Black,24,10,Cloth
+137,Holvae,10000,500,Unowned,0,9,Coal
+138,Heerlewaarde,10000,500,Unowned,0,4,Naval Supplies
+139,Norreck,10000,500,Carwell,25,20,Fruit
+140,Kaalburg,10000,500,Tyrannian,47,20,Fruit
+141,Plaine-du-Nord,10000,500,du Pont,31,16,Gems
+142,Ansägerlän,10000,500,Ivarr,5,7,Metallurgy
+143,Clifferden,10000,500,Howlester,36,2,Fish
+144,Sydalsborg,10000,500,Unowned,0,7,Metallurgy
+145,Valerese,10000,500,dei Orazio,19,9,Coal
+146,Syltenborg,10000,500,Unowned,0,6,Fur
+147,Bruidwinladdwich,10000,500,Unowned,0,2,Fish
+148,Maggiore Termno,10000,500,Lampero,6,8,Forestry
+149,Mertzé,10000,500,Ravenstad,43,8,Forestry
+150,Casliv,10000,500,Unowned,0,8,Forestry
+151,Cap fôret,10000,500,Unowned,0,4,Naval Supplies
+152,Ville Afrancais,10000,500,Unowned,0,11,Wine
+153,Santáo,10000,500,di Alan,20,4,Naval Supplies
+154,Siebenbergerwald,10000,500,d'Vaud,32,8,Forestry
+155,Castelvetriniano,10000,500,di Alan,20,8,Forestry
+156,Bedsten upon ful,10000,500,Unowned,0,5,Wool
+157,Ville Truiquis,10000,500,d'Ortonnaise,28,11,Wine
+158,Erschenweiler,10000,500,Ravenstad,43,7,Metallurgy
+159,Keerlebos,10000,500,Tyrannian,47,1,Grain
+160,Archidonna,10000,500,Joncker,4,19,Plantations
+161,Zeëland,10000,500,Barlowe,14,4,Naval Supplies
+162,Cartosáo,10000,500,Miramonte,40,4,Naval Supplies
+163,Ligneville-sur-Font,10000,500,Vixe de Loiree-bas,39,11,Wine
+164,Burgerzuid,10000,500,Tyrannian,47,20,Fruit
+165,Fedsaxton,10000,500,Drache,29,5,Wool
+166,Ingëntingerlän,10000,500,Viduggla,48,2,Fish
+167,Mortillajaux,10000,500,Unowned,0,15,Jewelry
+168,Wattenmeer,10000,500,Unowned,0,2,Fish
+169,Couldevonne,10000,500,de Paquet,18,,
+170,Bittre-Mosais,10000,500,de Paquet,18,,
+171,Scacci,10000,500,di Alan,20,12,Dye
+172,Sjareks-Snølän,10000,500,Zastórzy,12,2,Fish
+173,Tigrunn,10000,500,Unowned,0,,
+174,Mierenloop,10000,500,Unowned,0,20,Fruit
+175,Lugo-Perezo,10000,500,Unowned,0,7,Metallurgy
+176,Ultz,10000,500,Ravenstad,43,9,Coal
+177,Vaertpoort,10000,500,Harhold,35,4,Naval Supplies
+178,Veerle,10000,500,Unowned,0,1,Grain
+179,Norrehurst,10000,500,Drache,29,10,Cloth
+180,Landelle,10000,500,Rosendahl,45,5,Wool
+181,Redde,10000,500,Kehlen,37,4,Naval Supplies
+182,Erbtaubleierwald,10000,500,d'Vaud,32,8,Forestry
+183,Notting,10000,500,Barlowe,14,23,Glass
+184,Kirben-und-Faltach,10000,500,Unowned,0,,
+185,Montrie,10000,500,Harhold,35,,
+186,Castletun,10000,500,Unowned,0,5,Wool
+187,Luzencon,10000,500,du Pont,31,14,Gold
+188,Ivrae,10000,500,Ivrae,3,11,Wine
+189,Leomarenwald,10000,500,Everhardt,33,8,Forestry
+190,Shorois,10000,500,de Paquet,18,,
+191,Vullecavaglia,10000,500,Lampero,6,9,Coal
+192,Rebaronne,10000,500,de Paquet,18,,
+193,Nordwald,10000,500,Unowned,0,3,Livestock
+194,Schverdingberg,10000,500,Typhonus,10,3,Livestock
+195,Grisvarna,10000,500,Howlester,36,2,Fish
+196,Baaløy,10000,500,Unowned,0,,
+197,Westerlaas,10000,500,Harhold,35,3,Livestock
+198,Gaekraan,10000,500,Harhold,35,1,Grain
+199,Tebayburg,10000,500,Unowned,0,,
+200,Anglian Morass,10000,500,Kade,1,1,Grain
+201,Maggiore Capri,10000,500,Alaire,23,8,Forestry
+202,Quartier Bertrange,10000,500,du Pont,31,20,Fruit
+203,Savignelle,10000,500,Unowned,0,14,Gold
+204,Lengelän,10000,500,Zastórzy,12,2,Fish
+205,Banicca,10000,500,de Gosselin,17,22,Tea
+206,Junglfontaine,10000,500,Rosendahl,45,7,Metallurgy
+207,Ile-de-Borrois,10000,500,d'Aruele,15,,
+208,Castlebay,10000,500,Unowned,0,7,Metallurgy
+209,Caltasin,10000,500,di Alan,20,8,Forestry
+210,The Highlands,10000,500,Unowned,0,7,Metallurgy
+211,Lristæll,10000,500,Zastórzy,12,2,Fish
+212,Halle,10000,500,Kehlen,37,4,Naval Supplies
+213,Carreileigh,10000,500,van Dirkse,11,5,Wool
+214,Accru,10000,500,de Gosselin,17,,
+215,Laicer,10000,500,d'Aruele,15,,
+216,Skogbrennalän,10000,500,Unowned,0,2,Fish
+217,Cucáo,10000,500,di Alan,20,4,Naval Supplies
+218,Broix-de-Carne,10000,500,du Pont,31,11,Wine
+219,Sevastakos,10000,500,Unowned,0,11,Wine
+220,Nygárdsefjel,10000,500,Zastórzy,12,2,Fish
+221,Athelhorne,10000,500,Howlester,36,2,Fish
+222,Small Wiggerby,10000,500,Daubney,16,,
+223,Eksdale,10000,500,Daubney,16,,
+224,Nordmarken,10000,500,Unowned,0,7,Metallurgy
+225,Blingbury,10000,500,Black,24,10,Cloth
+226,Ville Curan,10000,500,Unowned,0,15,Jewelry
+227,Carrois-do-Gibben,10000,500,du Lioc,30,22,Tea
+228,Narlas,10000,500,Black,24,10,Cloth
+229,Elkenburg,10000,500,Unowned,0,20,Fruit
+230,Fidston,10000,500,Unowned,0,10,Cloth
+231,Sange-vall,10000,500,Ivrae,3,11,Wine
+232,Vlissinghelm,10000,500,Harhold,35,1,Grain
+233,Dragenhurst,10000,500,Drache,29,8,Forestry
+234,Saill,10000,500,Unowned,0,10,Cloth
+235,pepellos,10000,500,Unowned,0,11,Wine
+236,Kroonsteel,10000,500,Harhold,35,1,Grain
+237,Anthon,10000,500,Rolvdahl,8,,
+238,Tristë,10000,500,Unowned,0,,
+239,Boorswick,10000,500,Unowned,0,20,Fruit
+240,Ulfraeksim,10000,500,Unowned,0,20,Fruit
+241,Upperhamm upon Ful,10000,500,van Dirkse,11,4,Naval Supplies
+242,Butterwick,10000,500,Leberecht,7,17,Butter
+243,Vertinøy,10000,500,Unowned,0,,
+244,Meerburg-Kovarov,10000,500,Unowned,0,8,Forestry
+245,Lochoidsdale,10000,500,Unowned,0,7,Metallurgy
+246,Côte Lhermoire,10000,500,Vixe de Loiree-bas,39,11,Wine
+247,Sange-Lagne,10000,500,Ivrae,3,11,Wine
+248,Marsalosi,10000,500,di Alan,20,12,Dye
+249,Cartaghena,10000,500,Miramonte,40,4,Naval Supplies
+250,Champoluc-Osta,10000,500,Unowned,0,9,Coal
+251,Karelburg,10000,500,Harhold,35,1,Grain
+252,Limbeville,10000,500,Unowned,0,22,Tea
+253,Oxenlake,10000,500,Unowned,0,,
+254,Derevna-Moktoboy,10000,500,Kostalansky,38,13,Silver
+255,Fërtmarken,10000,500,Unowned,0,10,Cloth
+256,Bendhamm,10000,500,Leberecht,7,10,Cloth
+257,Czabri-Lødingen,10000,500,Unowned,0,2,Fish
+258,Ciudad del Cazalla,10000,500,Anahera,13,18,Opiates
+259,Flensenburg,10000,500,Unowned,0,6,Fur
+260,Heartbury,10000,500,Reinard,44,8,Forestry
+261,Galloy,10000,500,Howlester,36,2,Fish
+262,Parenest,10000,500,Unowned,0,11,Wine
+263,Nörrenwich-Heim ober Eifenforst,10000,500,d'Vaud,32,4,Naval Supplies
+264,Billunderborg,10000,500,Ivarr,5,4,Naval Supplies
+265,Lampeport,10000,500,Lampero,6,9,Coal
+266,Allejustrellazman,10000,500,Unowned,0,12,Dye
+267,San Justinian,10000,500,Wodenstaff,50,12,Dye
+268,Kinwrey,10000,500,Howlester,36,2,Fish
+269,Vittorio,10000,500,Lampero,6,7,Metallurgy
+270,Fahrbelling,10000,500,Unowned,0,2,Fish
+271,Frillebourgh,10000,500,du Pont,31,11,Wine
+272,Theomarenwald,10000,500,Unowned,0,8,Forestry
+273,Filtleigh,10000,500,Reinard,44,20,Fruit
+274,Sanempach,10000,500,Peirgarten,42,5,Wool
+275,Tonbridge,10000,500,Harhold,35,5,Wool
+276,Kentwynstead,10000,500,Harhold,35,5,Wool
+374,Castro Carcel,10000,500,Unowned,0,4,Naval Supplies
+278,Gudverinlän,10000,500,Viduggla,48,,
+279,Vallo de Calmino,10000,500,di Alan,20,10,Cloth
+280,Lowesoft,10000,500,Barlowe,14,5,Wool
+281,Wexsenfird,10000,500,Howlester,36,2,Fish
+282,Longlaiville,10000,500,Peirgarten,42,5,Wool
+283,La Cresse,10000,500,Unowned,0,15,Jewelry
+284,Trapermettino,10000,500,Joncker,4,12,Dye
+285,Vigeviano,10000,500,Lampero,6,9,Coal
+286,Knight Isle,10000,500,Unowned,0,,
+287,Ansenbourgh,10000,500,Peirgarten,42,22,Tea
+288,Trieg,10000,500,Unowned,0,10,Cloth
+289,Kryvosynn,10000,500,Unowned,0,8,Forestry
+290,Pach Norrlach,10000,500,Unowned,0,2,Fish
+291,Côte Plessis,10000,500,Celyreos,52,11,Wine
+292,Chussex,10000,500,Unowned,0,20,Fruit
+293,Côte Corneuille,10000,500,Unowned,0,11,Wine
+294,Lutherstadt,10000,500,Ravenstad,43,13,Silver
+295,Ogre-Llrollenlän,10000,500,Haagenvig,34,6,Fur
+297,Saint-Mirais,10000,500,de Gosselin,17,,
+298,Vaylais,10000,500,Unowned,0,10,Cloth
+299,Calemberg,10000,500,Typhonus,10,10,Cloth
+300,Ost-Heilingegrabe,10000,500,Zastórzy,12,2,Fish
+301,Cap Buclair,10000,500,Unowned,0,22,Tea
+302,Marmontania,10000,500,dei Orazio,19,7,Metallurgy
+303,Middenhurst,10000,500,Drache,29,5,Wool
+304,Churst,10000,500,Rolvdahl,8,,
+305,Coorside,10000,500,Daubney,16,,
+306,Sael,10000,500,Black,24,10,Cloth
+307,Lorhauser,10000,500,du Pont,31,20,Fruit
+308,Justiniusstadt,10000,500,Rosendahl,45,3,Livestock
+309,Crastö,10000,500,Unowned,0,,
+310,Sterrenwald,10000,500,Rolvdahl,8,,
+311,Resenteois,10000,500,de Paquet,18,,
+312,Laonne,10000,500,Ivrae,3,11,Wine
+313,Jodi,10000,500,Unowned,0,22,Tea
+314,Camerito,10000,500,dei Orazio,19,7,Metallurgy
+315,Pellegrino Martina,10000,500,dei Orazio,19,11,Wine
+316,Porton,10000,500,Rolvdahl,8,,
+317,Newbrigge-Folsterwald,10000,500,Unowned,0,,
+318,Parbudicze,10000,500,Unowned,0,8,Forestry
+319,Morgwhen,10000,500,Barlowe,14,23,Glass
+320,Czwartenheer,10000,500,Kade-Schwarze,2,1,Grain
+321,Dömitzberg,10000,500,Typhonus,10,3,Livestock
+322,Collen-Bas,10000,500,Alaire,23,7,Metallurgy
+323,Kennriclake,10000,500,Unowned,0,,
+324,Vicossato,10000,500,Lampero,6,9,Coal
+325,Merinoy,10000,500,Unowned,0,,
+326,Bellinzonia,10000,500,dei Orazio,19,11,Wine
+327,Kinguinesse,10000,500,Unowned,0,9,Coal
+328,Benverin,10000,500,Unowned,0,8,Forestry
+329,Storwich,10000,500,Leberecht,7,10,Cloth
+330,Dunfarrigh,10000,500,Howlester,36,2,Fish
+331,Newstonloch,10000,500,Rolvdahl,8,,
+332,Canach-Vilhof,10000,500,du Pont,31,22,Tea
+333,Gardlingwald,10000,500,Typhonus,10,2,Fish
+334,Osterburgwald,10000,500,Unowned,0,6,Fur
+335,Reelen-Aansberg,10000,500,d'Vaud,32,8,Forestry
+336,Tristoy,10000,500,Unowned,0,,
+337,Alcarala Réal,10000,500,Anahera,13,19,Plantations
+338,Sacille,10000,500,Lampero,6,7,Metallurgy
+339,Kriegkap,10000,500,Unowned,0,2,Fish
+340,Vixchancourt,10000,500,Ivrae,3,11,Wine
+341,Donano,10000,500,Anahera,13,19,Plantations
+342,Bichancourt,10000,500,Ivrae,3,11,Wine
+343,Pikkebaes,10000,500,Unowned,0,20,Fruit
+344,Ile-de-Cancois,10000,500,d'Aruele,15,,
+345,Randazzano,10000,500,Joncker,4,8,Forestry
+346,Morcange,10000,500,du Pont,31,22,Tea
+347,Lausitte,10000,500,Kehlen,37,10,Cloth
+348,Lastradois,10000,500,Unowned,0,16,Gems
+349,Helais,10000,500,d'Aruele,15,,
+350,Cressille,10000,500,du Pont,31,14,Gold
+351,Jegvetkkelän,10000,500,Howlester,36,9,Coal
+352,Carroburgen,10000,500,Tyrannian,47,1,Grain
+353,Ducanelle,10000,500,Lécuyer,39,22,Tea
+354,Pack Isle,10000,500,Unowned,0,,
+355,Termini,10000,500,dei Termini,27,7,Metallurgy
+356,Saint-Etruve,10000,500,d'Aruele,15,,
+357,Maerland,10000,500,Harhold,35,3,Livestock
+358,Ville Salars,10000,500,Unowned,0,10,Cloth
+359,Skjermerlän,10000,500,Santorski,10,6,Fur
+360,Mussolomeli,10000,500,di Alan,20,8,Forestry
+361,Stanbsury,10000,500,Leberecht,7,8,Forestry
+362,Anglia,10000,500,Kade,1,1,Grain
+363,Boder-Retheimgrabe,10000,500,d'Vaud,32,8,Forestry
+364,Beetzenwald,10000,500,Typhonus,10,6,Fur
+365,Styrkenskag,10000,500,Zastórzy,12,2,Fish
+366,Kollenberg-Hradicz,10000,500,Unowned,0,8,Forestry
+367,Nordstrand,10000,500,Unowned,0,2,Fish
+368,Thessalonikos,10000,500,Unowned,0,24,Slaves
+369,Extratorøy,10000,500,Unowned,0,,
+370,Locarnio,10000,500,Morgann,41,11,Wine
+371,Axl,10000,500,Kehlen,37,10,Cloth
+372,Saint-Claivont,10000,500,d'Aruele,15,,
+373,Warre,10000,500,Kehlen,37,4,Naval Supplies
+19,Regalia,10000,500,Unowned,0,,

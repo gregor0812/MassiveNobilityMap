@@ -38,14 +38,22 @@ $colors: (
   secondary:  #32db64,
   danger:     #f53d3d,
   light:      #f4f4f4,
-  dark:       #222
+  dark:       #222,
+  massivegreen: #a0ce4e
 );
+
+
+$toolbar-background: map-get($colors, massivegreen);
+$toolbar-ios-height: 5%;
+$toolbar-md-height: 5%;
+$toolbar-wp-height: 5%;
+
 
 
 // App iOS Variables
 // --------------------------------------------------
 // iOS only Sass variables can go here
-
+$toolbar-ios-title-text-color: map-get($colors, light);
 
 
 
@@ -53,13 +61,13 @@ $colors: (
 // --------------------------------------------------
 // Material Design only Sass variables can go here
 
-
+$toolbar-md-title-text-color: map-get($colors, light);
 
 
 // App Windows Variables
 // --------------------------------------------------
 // Windows only Sass variables can go here
-
+$toolbar-wp-title-text-color: map-get($colors, light);
 
 
 

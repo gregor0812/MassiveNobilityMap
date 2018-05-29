@@ -1,35 +1,51 @@
 <ion-header>
   <ion-navbar>
+    <button ion-button menuToggle>Toggle Menu</button>
     <ion-title>
-      The Regalian Archipelago
+      Regalia
     </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  <ion-list radio-group>
-    <ion-list-header>
-      Mapmode
-    </ion-list-header>
+<ion-content>
+  <ion-menu [content]="mycontent">
+    <ion-content>
+      <ion-list radio-group>
+        <ion-list-header>
+          Mapmode
+        </ion-list-header>
+        <ion-item>
+          <ion-label>Political</ion-label>
+          <ion-radio checked="true" value="go" (ionSelect)="mapModeToggle(1)"></ion-radio>
+        </ion-item>
 
-    <ion-item>
-      <ion-label>Political</ion-label>
-      <ion-radio checked="true" value="go"></ion-radio>
-    </ion-item>
+        <ion-item>
+          <ion-label>Economic</ion-label>
+          <ion-radio value="rust" (ionSelect)="mapModeToggle(2)"></ion-radio>
+        </ion-item>
 
-    <ion-item>
-      <ion-label>Economic</ion-label>
-      <ion-radio value="rust"></ion-radio>
-    </ion-item>
+        <ion-item>
+          <ion-label>Lordship</ion-label>
+          <ion-radio value="python"  (ionSelect)="mapModeToggle(3)"></ion-radio>
+        </ion-item>
 
-    <ion-item>
-      <ion-label>Military</ion-label>
-      <ion-radio value="python" disabled="false"></ion-radio>
-    </ion-item>
-    <ion-item>
-      <ion-label>Religious</ion-label>
-      <ion-radio value="python" disabled="false"></ion-radio>
-    </ion-item>
-  </ion-list>
-  <div id="container" style="width: 100%; height: 75%;"></div>
+        <ion-item>
+          <ion-label>Religious</ion-label>
+          <ion-radio value="python" disabled="true" (ionSelect)="mapModeToggle(4)"></ion-radio>
+        </ion-item>
+
+        <ion-item>
+          <ion-label>Military</ion-label>
+          <ion-radio value="python" disabled="true" (ionSelect)="mapModeToggle(5)"></ion-radio>
+        </ion-item>
+      </ion-list>
+    </ion-content>
+  </ion-menu>
+  <ion-nav #mycontent [root]="rootPage"></ion-nav>
+  <ion-fab bottom left >
+    <button ion-fab (click)="toggleLabels()">Labels</button>
+  </ion-fab>
+  <div id="container"></div>
 </ion-content>
+
+

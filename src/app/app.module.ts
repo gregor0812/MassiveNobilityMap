@@ -6,29 +6,48 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import { DataProvider } from '../providers/data/data';
 import {HttpClientModule} from "@angular/common/http";
+import {TabsPage} from "../pages/tabs/tabs";
+import {StatisticsPage} from "../pages/statistics/statistics";
+import {OrdersPage} from "../pages/orders/orders";
+import {AngularFireModule} from "angularfire2";
+import {firebaseConfig} from "../environment";
+import {AngularFirestoreModule} from "angularfire2/firestore";
+import {AngularFireDatabase, AngularFireDatabaseModule} from "angularfire2/database";
+import {NgxDatatableModule} from "@swimlane/ngx-datatable";
+
 
 @NgModule({
   declarations: [
     MyApp,
-    HomePage
+    HomePage,
+    TabsPage,
+    StatisticsPage,
+    OrdersPage,
+
+
   ],
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
-    HttpClientModule
+    AngularFireModule.initializeApp(firebaseConfig),
+    AngularFireDatabaseModule,
+    AngularFirestoreModule,
+    NgxDatatableModule,
+    HttpClientModule,
   ],
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HomePage
+    HomePage,
+    TabsPage,
+    StatisticsPage,
+    OrdersPage,
   ],
   providers: [
     StatusBar,
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
-    DataProvider,
     HttpClientModule
   ]
 })
