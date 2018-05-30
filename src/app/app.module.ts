@@ -35,6 +35,7 @@ import {NgxDatatableModule} from "@swimlane/ngx-datatable";
     AngularFirestoreModule,
     NgxDatatableModule,
     HttpClientModule,
+
   ],
   bootstrap: [IonicApp],
   entryComponents: [

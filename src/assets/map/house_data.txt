@@ -1,10 +1,9 @@
 house_id,house_name,house_colour
-house_id,house_name,house_colour
 1, Kade, #39479f
 2, Kade-Schwarze, #326b89
 3, Ivrae, #c49989
 4, Joncker, #84b588
-5, Ivarr, 6c98cd
+5, Ivarr, #6c98cd
 6, Lampero, #895d2e
 7, Leberecht, #997eb1
 8, Rolvdahl, #847755
@@ -53,18 +52,3 @@ house_id,house_name,house_colour
 51, Von Duerr, #61a63b
 52, Celyreos, #3e9bc6
 53, Lecuyer, #719e8a
-
-Alaire, #9b4e83
-Daubney, #99775e
-Rolvdahl, #847755
-Winslough, #5f8e6e
-Lampero, #895d2e
-dei Termini, #c2784b
-dei Orazio, #c6b26b
-Miramonte, #8a9962
-Wodenstaff, #304175
-Anahera, #89734c
-Jonckeer, #84b588
-Bolshekov, #3a6f67
-Kostolansky, #6b7d89
-d'Vaud, #93ccc1
