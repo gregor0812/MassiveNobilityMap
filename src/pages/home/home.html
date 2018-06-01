@@ -38,6 +38,14 @@
           <ion-label>Military</ion-label>
           <ion-radio value="python" disabled="true" (ionSelect)="mapModeToggle(5)"></ion-radio>
         </ion-item>
+        <ion-item (click)="logout()" *ngIf="auth.authenticated">
+          <ion-icon name="log-out" item-left></ion-icon>
+          Log out
+        </ion-item>
+        <ion-item (click)="login()" *ngIf="!auth.authenticated">
+          <ion-icon name="log-in" item-left></ion-icon>
+          Log in
+        </ion-item>
       </ion-list>
     </ion-content>
   </ion-menu>

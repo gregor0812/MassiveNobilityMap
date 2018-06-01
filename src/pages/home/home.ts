@@ -1,9 +1,12 @@
 import {Component} from '@angular/core';
-import {AlertController, IonicPage, NavController, Toast, ToastController} from 'ionic-angular';
-import  'anychart';
+import {ActionSheetController, AlertController, IonicPage, NavController, Toast, ToastController} from 'ionic-angular';
+import 'anychart';
 import {Observable} from "rxjs";
 import {AngularFireDatabase} from "angularfire2/database";
 import {map} from "rxjs/operators";
+import {ProvincesPage} from "./provinces";
+import {LoginPage} from '../login/login.page';
+import {AuthService} from "../../providers/auth.service";
 
 
 let regaliaMap = anychart.map();
@@ -14,10 +17,13 @@ let houseColourArray;
 let tradeColourArray;
 let lordshipColourArray;
 let data = [];
-let dataSet = anychart.data.set(data);
+let houseNames;
 let toastcontroller;
-let clicked = true;
-
+let actionsheetController;
+let clicked = false;
+let navController;
+let database;
+let authentication;
 @IonicPage()
 @Component({
   selector: 'page-home',
@@ -25,67 +31,44 @@ let clicked = true;
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController, private alertCtrl: AlertController, public db: AngularFireDatabase, public toastCtrl: ToastController) {
+  constructor(public navCtrl: NavController, private alertCtrl: AlertController, public db: AngularFireDatabase,private auth: AuthService, public toastCtrl: ToastController,public actionSheetCtrl: ActionSheetController) {
+    authentication = auth;
+  database = db;
+  houseNames = [];
     toastcontroller = toastCtrl;
+    actionsheetController = actionSheetCtrl;
+    navController = navCtrl;
 
-    let items: Observable<any[]>;
-    items = db.list('provinces').valueChanges();
-    let firstload: boolean;
-    firstload = false;
-    items.subscribe(function () {
-      regaliaMap.removeAllSeries();
-      reload();
-
-      function reload() {
-        if (firstload) {
-          location.reload();
-        } else {
-          firstload = !firstload;
-        }
-      }
-    });
-
-    items.forEach(key => {
-      key.map(value => {
-        let obj;
-        obj = Object.assign({}, value);
-        dataSet.append({
-          'id': obj.id,
-          'name': obj._name,
-          'manpower': obj._manpower,
-          'tax': obj._tax,
-          'house': obj._house,
-          'house_id': obj._house_id,
-          'goods_id': obj._goods_id,
-          'goods_name': obj._goods_name,
-          'ldshp_name': obj._ldshp_name,
-          'ldshp_id': obj._ldshp_id,
-          'capital': obj._capital,
-          'desc': obj._desc
-        });
-
-      });
+    let dataSet = anychart.data.set(data);
+    db.list('provinces').valueChanges().pipe(map(res => {
+      return res.map(eachlLabel => eachlLabel)
+    })).subscribe(res => {
+      dataSet.data(res);
+      console.log(res);
+      houseData = dataSet.mapAs({'value': 'house_id'});
+      tradeData = dataSet.mapAs({'value': 'goods_id'});
+      lordshipData = dataSet.mapAs({'value': 'ldshp_id'});
     });
     let items2: any[] = [];
     let houseList = [{'from': 0, 'to': 0}];
     let colourList = ["#ffffff"];
-    db.list('houses').valueChanges().pipe(map(res=> {
-      return res.map(eachlLabel=> eachlLabel)
-
+    db.list('houses').valueChanges().pipe(map(res => {
+      return res.map(eachlLabel => eachlLabel)
     })).subscribe(res => {
       console.log(res);
-items2 =  res;
+      items2 = res;
       items2.forEach(key => {
+        let obj;
+        obj = Object.assign({}, key);
+        houseList.push({
+          'from': obj.house_id,
+          'to': obj.house_id
+        });
+        houseNames.push(obj.house_name);
+        colourList.push(obj.house_colour);
 
-    let obj;
-    obj = Object.assign({}, key);
-    houseList.push({
-      'from': obj.house_id,
-      'to': obj.house_id
-    });
-    colourList.push(obj.house_colour)
-
-});
+      });
+      console.log(houseNames);
       console.log(houseList);
       console.log(colourList);
       houseColourArray = anychart.scales.ordinalColor(houseList);
@@ -98,43 +81,43 @@ items2 =  res;
   // Prompt mapmode selection for first use
   // noinspection JSUnusedGlobalSymbols
   ionViewDidLoad(): void {
-  let alert = this.alertCtrl.create({
-    title: 'Select mapmode',
-    inputs: [
-      {
-        type: 'radio',
-        label: 'Political',
-        value: '1',
-        checked: true
-      },
-      {
-        type: 'radio',
-        label: 'Economic',
-        value: '2'
-      },
-      {
-        type: 'radio',
-        label: 'Lordship',
-        value: '3'
-      },
-    ],
-    buttons: [
-      {
-        text: 'Cancel',
-        role: 'cancel',
-        handler: () => {
-          console.log('Cancel clicked');
+    let alert = this.alertCtrl.create({
+      title: 'Select mapmode',
+      inputs: [
+        {
+          type: 'radio',
+          label: 'Political',
+          value: '1',
+          checked: true
+        },
+        {
+          type: 'radio',
+          label: 'Economic',
+          value: '2'
+        },
+        {
+          type: 'radio',
+          label: 'Lordship',
+          value: '3'
+        },
+      ],
+      buttons: [
+        {
+          text: 'Cancel',
+          role: 'cancel',
+          handler: () => {
+            console.log('Cancel clicked');
+          }
+        },
+        {
+          text: 'OK',
+          handler: (data: Number) => {
+            this.mapModeToggle(data);
+          }
         }
-      },
-      {
-        text: 'OK',
-        handler: (data: Number) => {
-          this.mapModeToggle(data);
-        }
-      }
-    ]
-  });
-  alert.present();
+      ]
+    });
+    alert.present();
 
     tradeColourArray = anychart.scales.ordinalColor([
       {from: 0, to: 0},
@@ -316,7 +299,7 @@ items2 =  res;
     //Initialize map and data
     anychart.onDocumentReady(function () {
       //Load in Map geodata
-      anychart.data.loadJsonFile("./assets/map/RegaliaGeoData.geojson",function (data) {
+      anychart.data.loadJsonFile("./assets/map/RegaliaGeoData.geojson", function (data) {
         regaliaMap.geoData(data);
 
       });
@@ -339,13 +322,13 @@ items2 =  res;
       regaliaMap.draw(true);
     });
 
-    houseData = dataSet.mapAs({'value': 'house_id'});
-    tradeData = dataSet.mapAs({'value': 'goods_id'});
-    lordshipData = dataSet.mapAs({'value':'ldshp_id'});
-}
-  public  toggleLabels() {
+
+  }
+
+  public toggleLabels() {
     toggle();
-    function toggle(){
+
+    function toggle() {
       console.log(clicked.valueOf());
       clicked = !clicked;
       if (clicked) {
@@ -358,69 +341,112 @@ items2 =  res;
 
     }
   }
+
   //Toggle between mapmodes
-  public mapModeToggle(number: Number): void  {
-  console.log("toggle");
-  regaliaMap.removeAllSeries();
+  public mapModeToggle(number: Number): void {
+    console.log("toggle");
+    regaliaMap.removeAllSeries();
 
-  if (number == 1) {
-    let series = regaliaMap.choropleth(houseData);
-    series.colorScale(houseColourArray);
-    series.tooltip().useHtml(true).format(function () {
-      return '<span style="color: #d9d9d9">House</span>: ' +
-        this.getData('house').toLocaleString() + '<br/>' +
-        '<span style="color: #d9d9d9">Base Tax</span>: ' +
-        parseInt(this.getData('tax')).toLocaleString() + '<br/>' +
-        '<span style="color: #d9d9d9">Manpower</span>: ' +
-        parseInt(this.getData('manpower')).toLocaleString() + '<br/>' +
-      '<span style="color: #d9d9d9">Capital</span>: ' +
-      this.getData('capital').toLocaleString() + '<br/>' +
-        '<span style="color: #d9d9d9">Province ID</span>: ' +
-        parseInt(this.getData('id')).toLocaleString() + '<br/>' +
-        '<span style="color: #d9d9d9">House ID</span>: ' +
-        parseInt(this.getData('house_id')).toLocaleString()
-    });
 
-    let toast: Toast;
-    series.listen('pointClick', function (e:any )  {
-      try {
-        toast.dismiss();
-      } catch(e) {}
-
-      toast = toastcontroller.create({
-        message: (e.point.get('desc')),
-        position: 'bottom',
-        showCloseButton: true,
-
+    if (number == 1) {
+      let series = regaliaMap.choropleth(houseData);
+      series.colorScale(houseColourArray);
+      series.tooltip().useHtml(true).format(function () {
+        var int;
+        int = this.getData('house_id');
+        return '<span style="color: #d9d9d9">House</span>: ' +
+           houseNames[int-1]+'<br/>' +
+          '<span style="color: #d9d9d9">Base Tax</span>: ' +
+          parseInt(this.getData('tax')).toLocaleString() + '<br/>' +
+          '<span style="color: #d9d9d9">Manpower</span>: ' +
+          parseInt(this.getData('manpower')).toLocaleString() + '<br/>' +
+          '<span style="color: #d9d9d9">Capital</span>: ' +
+          this.getData('capital').toLocaleString() + '<br/>' +
+          '<span style="color: #d9d9d9">Province ID</span>: ' +
+          parseInt(this.getData('id')).toLocaleString() + '<br/>' +
+          '<span style="color: #d9d9d9">House ID</span>: ' +
+          parseInt(this.getData('house_id')).toLocaleString()
       });
 
-      toast.present();
-    });
-  }
+      let toast: Toast;
+      /*series.listen('pointClick', function (e: any) {
+        console.log(e);
+        toast = toastcontroller.create({
+          message: (e.point.get('desc')),
+          position: 'bottom',
+          showCloseButton: true,
 
-  if (number == 2) {
-    let series2 = regaliaMap.choropleth(tradeData);
-    series2.colorScale(tradeColourArray);
-    series2.tooltip().useHtml(true).format(function () {
-      return '<span style="color: #d9d9d9">House</span>: ' +
-        this.getData('house').toLocaleString() + '<br/>' +
-        '<span style="color: #d9d9d9">Trade Good</span>: ' +
-        this.getData('goods_name').toLocaleString() + '<br/>' +
-        '<span style="color: #d9d9d9">Tradegood ID</span>: ' +
-        parseInt(this.getData('goods_id')).toLocaleString()
-    });
-  }
-  if (number == 3) {
-    let series3 = regaliaMap.choropleth(lordshipData);
-    series3.colorScale(lordshipColourArray);
-    series3.tooltip().useHtml(true).format(function () {
-      return '<span style="color: #d9d9d9">Lordship</span>: ' +
-        this.getData('ldshp_name').toLocaleString() + '<br/>'
+        });
 
-    });
-  }
+        toast.present();
+      });*/
+
+series.listen('pointDblClick', function (e: any) {
+if (authentication.getEmail() == 'mikey0812@gmail.com' ||authentication.getEmail() == 'monmarty@gmail.com'){
+  let actionSheet = actionsheetController.create({
+    title: (e.point.get('name')),
+    buttons: [
+      {
+        text: 'Edit Province ',
+        handler: () => {
+          navController.push(ProvincesPage,{
+            id: e.point.get('id'),
+            name: e.point.get('name'),
+            house: e.point.get('house_id'),
+            tax: e.point.get('tax'),
+            desc: e.point.get('desc'),
+            manpower: e.point.get('manpower'),
+
+          });
+        }
+      },{
+        text: 'Cancel',
+        role: 'cancel',
+        handler: () => {
+
+        }
+      }
+    ]
+  });
+  actionSheet.present();
 
 }
+
+
+})
+    }
+
+    if (number == 2) {
+      let series2 = regaliaMap.choropleth(tradeData);
+      series2.colorScale(tradeColourArray);
+      series2.tooltip().useHtml(true).format(function () {
+        return '<span style="color: #d9d9d9">House</span>: ' +
+          this.getData('house').toLocaleString() + '<br/>' +
+          '<span style="color: #d9d9d9">Trade Good</span>: ' +
+          this.getData('goods_name').toLocaleString() + '<br/>' +
+          '<span style="color: #d9d9d9">Tradegood ID</span>: ' +
+          parseInt(this.getData('goods_id')).toLocaleString()
+      });
+    }
+    if (number == 3) {
+      let series3 = regaliaMap.choropleth(lordshipData);
+      series3.colorScale(lordshipColourArray);
+      series3.tooltip().useHtml(true).format(function () {
+        return '<span style="color: #d9d9d9">Lordship</span>: ' +
+          this.getData('ldshp_name').toLocaleString() + '<br/>'
+
+      });
+    }
+
+  }
+
+  login() {
+navController.push(LoginPage)
+  }
+
+  logout() {
+    authentication.signOut();
+  }
 }
 
 

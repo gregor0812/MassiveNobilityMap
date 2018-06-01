@@ -15,19 +15,30 @@ import {firebaseConfig} from "../environment";
 import {AngularFirestoreModule} from "angularfire2/firestore";
 import {AngularFireDatabase, AngularFireDatabaseModule} from "angularfire2/database";
 import {NgxDatatableModule} from "@swimlane/ngx-datatable";
+import {HomePageModule} from "../pages/home/home.module";
+import {ResetPasswordPage} from "../pages/reset-password/reset-password.page";
+import {LoginPage} from "../pages/login/login.page";
+import {SignupPage} from "../pages/signup/signup.page";
+import {NgxErrorsModule} from "@ultimate/ngxerrors";
+import {AuthService} from "../providers/auth.service";
+import {AngularFireAuth} from "angularfire2/auth";
 
 
 @NgModule({
   declarations: [
     MyApp,
-    HomePage,
     TabsPage,
     StatisticsPage,
     OrdersPage,
+    LoginPage,
+    ResetPasswordPage,
+    SignupPage,
+
 
 
   ],
   imports: [
+    HomePageModule,
     BrowserModule,
     IonicModule.forRoot(MyApp),
     AngularFireModule.initializeApp(firebaseConfig),
@@ -35,21 +46,27 @@ import {NgxDatatableModule} from "@swimlane/ngx-datatable";
     AngularFirestoreModule,
     NgxDatatableModule,
     HttpClientModule,
+    NgxErrorsModule
 
   ],
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HomePage,
     TabsPage,
     StatisticsPage,
     OrdersPage,
+    LoginPage,
+    ResetPasswordPage,
+    SignupPage,
   ],
   providers: [
     StatusBar,
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
-    HttpClientModule
+    HttpClientModule,
+    AuthService,
+    AngularFireAuth,
+    AngularFireDatabase,
   ]
 })
 export class AppModule {}

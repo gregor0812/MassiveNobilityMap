@@ -1,0 +1,42 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Province Editing</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <ion-item>
+      <ion-label color="primary">Province name: {{navParams.get('name')}}</ion-label>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">Province ID:</ion-label>
+      <ion-input type="number" value="{{navParams.get('id')}}" readonly="true" #id></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">Description:</ion-label>
+      <ion-textarea value="{{navParams.get('desc')}}" #desc></ion-textarea>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">House ID</ion-label>
+      <ion-select [(ngModel)]="selectedvalue" >
+        <ion-option *ngFor="let item of items | async"   value="{{item.house_id}}" >
+          {{item.house_name}}
+        </ion-option>
+      </ion-select>
+
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">Tax</ion-label>
+      <ion-input type="number" value="{{navParams.get('tax')}}" #tax></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">Manpower</ion-label>
+      <ion-input type="number" value="{{navParams.get('manpower')}}" #manpower></ion-input>
+    </ion-item>
+  </ion-list>
+  <button ion-button (click)="updateProvince(id.value,desc.value,selectedvalue,tax.value,manpower.value);">Submit</button>
+</ion-content>
