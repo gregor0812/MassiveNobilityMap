@@ -11,10 +11,10 @@ import {Observable} from "rxjs/Rx";
  */
 
 @Component({
-  selector: 'page-provinces',
-  templateUrl: 'provinces.html',
+  selector: 'page-houses',
+  templateUrl: 'houses.html',
 })
-export class ProvincesPage {
+export class HousesPage {
   items;
   selectedvalue: number;
   constructor(public navCtrl: NavController, public navParams: NavParams, private db: AngularFireDatabase) {
@@ -25,20 +25,17 @@ export class ProvincesPage {
   ionViewDidLoad() {
   }
 
-  updateProvince(id,desc,house,tax,manpower){
+  createHouse(name,id,colour){
+    let _name = name;
     let _id = Number(id);
-    let _desc = desc;
-    let _house = Number(house);
-    let _tax:number = Number(tax);
-    let _manpower:number = Number(manpower);
+    let _colour = colour;
 
-    const itemRef = this.db.object('provinces/'+id);
+    const itemRef = this.db.object('houses/'+id);
+    itemRef.update({house_name: _name});
+    itemRef.update({house_id: _id});
+    itemRef.update({house_colour: _colour});
 
-    itemRef.update({desc: desc});
-    itemRef.update({house_id: _house});
-    itemRef.update({tax: _tax});
-    itemRef.update({manpower: _manpower});
     this.navCtrl.pop();
 
-}
+  }
 }

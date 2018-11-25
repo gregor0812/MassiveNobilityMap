@@ -65,4 +65,9 @@ page-statistics {
   .datatable-icon-prev:before {
     content: "<<";
   }
+  ion-slide.swiper-slide {
+    align-items: flex-start;
+    overflow-y: scroll;
+    display: block;
+  }
 }

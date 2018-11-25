@@ -14,10 +14,10 @@
 
 
 <ion-content>
-  <ion-slides #slides pager centeredSlides="false">
+  <ion-slides #slides pager  centeredSlides="false">
 
-    <ion-slide>
-  <div>
+    <ion-slide centeredSlides="false">
+    <div>
 
     <!--
          Embed the ngx-datatable component with following property bindings/values:
@@ -41,9 +41,9 @@
       [rows]="rows"
       [columns]="columns"
       [columnMode]="'force'"
-      [limit]="10">
+      [limit]="30">
     </ngx-datatable>
-  </div>
+    </div>
     </ion-slide>
     <ion-slide>
     </ion-slide>

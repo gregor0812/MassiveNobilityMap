@@ -1,0 +1,26 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Create House</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <ion-item>
+      <ion-label color="primary">House Name:</ion-label>
+      <ion-input type="text" #house_name></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">House ID</ion-label>
+      <ion-input type="number" #house_id></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label color="primary">House Colour (Hexcode)</ion-label>
+      <ion-input type="text" value="#" #house_colour></ion-input>
+    </ion-item>
+  </ion-list>
+  <button ion-button (click)="createHouse(house_name.value,house_id.value,house_colour.value);">Submit</button>
+</ion-content>

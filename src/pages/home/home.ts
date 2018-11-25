@@ -7,6 +7,7 @@ import {map} from "rxjs/operators";
 import {ProvincesPage} from "./provinces";
 import {LoginPage} from '../login/login.page';
 import {AuthService} from "../../providers/auth.service";
+import {HousesPage} from "./houses";
 
 
 let regaliaMap = anychart.map();
@@ -355,7 +356,7 @@ export class HomePage {
         var int;
         int = this.getData('house_id');
         return '<span style="color: #d9d9d9">House</span>: ' +
-           houseNames[int-1]+'<br/>' +
+           houseNames[int]+'<br/>' +
           '<span style="color: #d9d9d9">Base Tax</span>: ' +
           parseInt(this.getData('tax')).toLocaleString() + '<br/>' +
           '<span style="color: #d9d9d9">Manpower</span>: ' +
@@ -398,6 +399,12 @@ if (authentication.getEmail() == 'mikey0812@gmail.com' ||authentication.getEmail
             manpower: e.point.get('manpower'),
 
           });
+        }
+      },
+      {
+        text: 'Create House',
+        handler: () => {
+          navController.push(HousesPage);
         }
       },{
         text: 'Cancel',
@@ -446,6 +453,13 @@ navController.push(LoginPage)
 
   logout() {
     authentication.signOut();
+  }
+
+  manageHouses() {
+    if (authentication.getEmail() == 'mikey0812@gmail.com' ||authentication.getEmail() == 'monmarty@gmail.com'){
+      navController.push(HousesPage);
+
+    }
   }
 }
 

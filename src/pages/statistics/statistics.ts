@@ -1,9 +1,14 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import {HttpClient} from "@angular/common/http";
+import {AngularFireDatabase} from "angularfire2/database";
+import {map} from "rxjs/internal/operators";
+import 'rxjs/add/operator/take';
+
 
 export interface Config {
-  technologies: string;
+  house_id: number;
+  house_name: string;
 }
 
 @IonicPage()
@@ -19,9 +24,7 @@ export class StatisticsPage {
    * @public
    * @description     Defines an object allowing the interface properties to be accessed
    */
-  public config : Config;
-
-
+  public config: Config;
 
 
   /**
@@ -30,7 +33,7 @@ export class StatisticsPage {
    * @public
    * @description     Defines an object for storing the column definitions of the datatable
    */
-  public columns : any;
+  public columns: any;
 
   /**
    * @name rows
@@ -38,16 +41,14 @@ export class StatisticsPage {
    * @public
    * @description     Defines an object for storing returned data to be displayed in the template
    */
-  public rows : any;
+  public rows: any;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public _HTTP: HttpClient) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, public _HTTP: HttpClient, public db: AngularFireDatabase) {
     this.columns = [
-      { prop: 'House' },
-      { name: 'Land capacity' },
-      { name: 'Current troops' },
-      { name: 'Naval capacity' },
-      { name: 'Current ships' },
-      { name: 'Weekly Income' },
+      {prop: 'house_name'},
+      {name: 'house_id'},
+      {name: 'manpower'},
+      {name: 'Tax'},
     ];
   }
 
@@ -61,10 +62,38 @@ export class StatisticsPage {
    * @method ionViewDidLoad
    * @return {none}
    */
-  ionViewDidLoad() : void
-  {
+  ionViewDidLoad(): void {
 
+    let subscription = this.db.list('houses').valueChanges().take(1).pipe(map(res => {
+      return res.map(eachlLabel => eachlLabel)
+    })).subscribe(res => {
+      res.forEach(key => {
+        let tax: number =0;
+        let manpower: number = 0;
+
+        let obj;
+        obj = Object.assign({}, key);
+        let id;
+        id = obj.house_id;
+
+        this.db.list('provinces', ref => ref.orderByChild('house_id').equalTo(obj.house_id)).valueChanges().pipe(map(res => {
+          return res.map(eachlLabel => eachlLabel)
+        })).subscribe(res => {
+          res.forEach(key => {
+            let obj2;
+            obj2 = Object.assign({}, key);
+            tax = (tax + obj2.tax);
+            manpower = (manpower + obj2.manpower);
+          });
+        });
+
+
+
+      });
+
+      this.rows = res;
+      subscription.unsubscribe();
+    });
 
   }
-
 }
